@@ -2,19 +2,26 @@ Author: Marie Dubremetz
 
 **Description**
 
-This folder contains the corpora and output of the last part of my (to be published) Frontiers in Digital Humanities Article.
+This folder contains the corpora and outputs of the last part of my (to be published) Frontiers in Digital Humanities Article.
+
 ***Source***
+
 In the folder "source" you will find the three different input files:
 * a corpus of titles of fiction books that I crawled via a python script on the www.waterstones.com/category/fiction website
 * a corpus of titles of scientific articles from DBLP. For the need of my experiments, I had to limit it to a sample of 192 000 titles as my list of fiction books did not get over this number.
 * a corpus of quotes. The quotes corpus has not been collected by me and therefore is not stored as such on my official repository. You can freely access it by following the reference/link below:
 Liling Tan. 2015. A Corpus of Quotes. https://github.com/alvations/Quotables. Kind thank you to Liling Tan!
+
 ***Outputs of my experiments***
+
 The files *_ana.txt contain the epanaphora found by my machine in the corpora
+
 The files *_epi.txt contain the epiphora found by my machine in the corpora
+
 The files *_chiasmus.txt contain thechiasmis found by my machine in the corpora
 
 **File Example**
+
 This is what contains the file quote_chiasmus.txt:
 			====*1*====+
 					  
