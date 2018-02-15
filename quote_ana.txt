@@ -1,0 +1,6397 @@
+<?xml version="1.0"?>
+
+###################################
+#R Stands for Rank		#
+#P Stands for Probability Score	#
+##################################
+
+					====*1*====+
+1. Life is a song - sing it.
+2. Life is a game - play it.
+3. Life is a challenge - meet it.
+4. Life is a dream - realize it.
+5. Life is a sacrifice - offer it.
+6. Life is love - enjoy it.
+R= 1 P= 99.96%
+
+
+					====*2*====+
+1. Did I offer peace today?
+2. Did I bring a smile to someone's face?
+3. Did I say words of healing?
+4. Did I let go of my anger and resentment?
+5. Did I forgive?
+6. Did I love?
+R= 2 P= 99.95%
+
+
+					====*3*====+
+1. I believe in using words, not fists.
+2. I believe in my outrage knowing people are living in boxes on the street.
+3. I believe in honesty.
+4. I believe in a good time.
+5. I believe in good food.
+6. I believe in sex.
+R= 3 P= 99.94%
+
+
+					====*4*====+
+1. I believe in manicures.
+2. I believe in overdressing.
+3. I believe in primping at leisure and wearing lipstick.
+4. I believe in pink.
+5. I believe happy girls are the prettiest girls.
+6. I believe that tomorrow is another day, and... I believe in miracles.
+R= 4 P= 99.88%
+
+
+					====*5*====+
+1. I do not offer press kits.
+2. I do not offer stills.
+3. I do not offer screeners.
+4. I do not offer DVD's.
+5. I do not offer posters.
+R= 5 P= 99.81%
+
+
+					====*6*====+
+1. I am an actor.
+2. I am a writer.
+3. I am a producer.
+4. I am a director.
+5. I am a magician.
+R= 6 P= 99.80%
+
+
+					====*7*====+
+1. I can be dramatic.
+2. I can be funny.
+3. I can be sexy.
+4. I can be sad.
+5. I can be glad.
+R= 6 P= 99.80%
+
+
+					====*8*====+
+1. Just one step.
+2. Just one mile.
+3. Just one dollar.
+4. Just one kiss.
+5. Just one person.
+R= 8 P= 99.72%
+
+
+					====*9*====+
+1. I believe in pink.
+2. I believe that laughing is the best calorie burner.
+3. I believe in kissing, kissing a lot.
+4. I believe in being strong when everything seems to be going wrong.
+5. I believe that happy girls are the prettiest girls.
+6. I believe that tomorrow is another day and I believe in miracles.
+R= 9 P= 99.56%
+
+
+					====*10*====+
+1. I tell it like it is.
+2. I tell it like I see it.
+3. I tell it like I envision it.
+4. I tell it like I live it.
+R= 10 P= 98.72%
+
+
+					====*11*====+
+1. If I feel like doing something, I do it.
+2. If I feel like saying something, I say it.
+3. If I feel like dancing, I do.
+4. If I don't, I don't.
+R= 11 P= 97.82%
+
+
+					====*12*====+
+1. Where is the Life we have lost in living?
+2. Where is the wisdom we have lost in knowledge?
+3. Where is the knowledge we have lost in information?
+R= 12 P= 97.59%
+
+
+					====*13*====+
+1. I'm the one who gets called up about a problem.
+2. I'm the one who gets called up about the street lighting and the abandoned car.
+3. I'm the one who gets blamed if the police don't arrive.
+4. I'm the one they blame if a city truck is broken down.
+R= 13 P= 97.47%
+
+
+					====*14*====+
+1. I do believe we're all connected.
+2. I do believe in positive energy.
+3. I do believe in the power of prayer.
+4. I do believe in putting good out into the world.
+R= 14 P= 97.33%
+
+
+					====*15*====+
+1. I was always such a late developer.
+2. I was last to walk.
+3. I was last to ride a bike.
+4. I was last to have sex.
+R= 15 P= 96.33%
+
+
+					====*16*====+
+1. The more generous we are, the more joyous we become.
+2. The more cooperative we are, the more valuable we become.
+3. The more enthusiastic we are, the more productive we become.
+4. The more serving we are, the more prosperous we become.
+R= 16 P= 95.91%
+
+
+					====*17*====+
+1. It is happening today.
+2. It is being charted by our satellites.
+3. It is being charted by our scientists.
+4. It is being charted by those of us in this body, and I think the real key is if we are ready to admit that fact and take the action to make the necessary conversion.
+R= 17 P= 95.72%
+
+
+					====*18*====+
+1. What does gene A do?
+2. What does gene B do?
+3. What does it do in different contexts?
+R= 18 P= 95.30%
+
+
+					====*19*====+
+1. If you prick us do we not bleed?
+2. If you tickle us do we not laugh?
+3. If you poison us do we not die?
+R= 19 P= 94.47%
+
+
+					====*20*====+
+1. The problem with public school is not overcrowding in the classroom.
+2. The problem is not teacher unions.
+3. The problem is not underfunding or lack of computer equipment.
+4. The problem is your damn kids.
+R= 20 P= 93.89%
+
+
+					====*21*====+
+1. I was never interested in becoming an actor.
+2. I was directing videos.
+3. I was never into acting.
+4. I was into shooting music videos.
+R= 21 P= 92.15%
+
+
+					====*22*====+
+1. What is a fish without a river?
+2. What is a bird without a tree to nest in?
+3. What is an Endangered Species Act without any enforcement mechanism to ensure their habitat is protected?
+R= 22 P= 91.73%
+
+
+					====*23*====+
+1. It doesn't have to be that way.
+2. It doesn't have to be drugs.
+3. It doesn't have to be alcohol.
+R= 23 P= 91.02%
+
+
+					====*24*====+
+1. Learning is the beginning of wealth.
+2. Learning is the beginning of health.
+3. Learning is the beginning of spirituality.
+R= 23 P= 91.02%
+
+
+					====*25*====+
+1. Hope and change ain't working.
+2. Hope and change is not a solution.
+3. Hope and change is not a job.
+R= 25 P= 90.80%
+
+
+					====*26*====+
+1. If you create an act, you create a habit.
+2. If you create a habit, you create a character.
+3. If you create a character, you create a destiny.
+R= 26 P= 90.54%
+
+
+					====*27*====+
+1. No one ever said, 'You can't be a fashion designer.'
+2. No one ever said, 'You're a boy and you can't take tap-dancing lessons.'
+3. No one ever said, 'You're a boy and you can't have long hair.'
+R= 27 P= 90.09%
+
+
+					====*28*====+
+1. Alone!
+2. Alone!
+R= 28 P= 89.77%
+
+
+					====*29*====+
+1. Achieve!
+2. Achieve!
+R= 28 P= 89.77%
+
+
+					====*30*====+
+1. Orange whip?
+2. Orange whip?
+R= 28 P= 89.77%
+
+
+					====*31*====+
+1. I've never been to jail.
+2. I've never been arrested.
+3. I've never been locked up.
+R= 31 P= 89.50%
+
+
+					====*32*====+
+1. The root of the kingdom is in the state.
+2. The root of the state is in the family.
+3. The root of the family is in the person of its head.
+R= 31 P= 89.50%
+
+
+					====*33*====+
+1. I'm going to press on for equality.
+2. I'm going to press on for the sake of our children.
+3. I'm going to press on for the sake of all those families who are struggling right now.
+R= 31 P= 89.50%
+
+
+					====*34*====+
+1. Let others lead small lives, but not you.
+2. Let others argue over small things, but not you.
+3. Let others cry over small hurts, but not you.
+4. Let others leave their future in someone else's hands, but not you.
+R= 34 P= 89.26%
+
+
+					====*35*====+
+1. Don't knock your friends.
+2. Don't knock your enemies.
+3. Don't knock yourself.
+R= 35 P= 89.23%
+
+
+					====*36*====+
+1. Men are allowed to age.
+2. Men are allowed to gain weight.
+3. Men are allowed to be quirky looking.
+R= 36 P= 88.95%
+
+
+					====*37*====+
+1. I believe I'm going to die doing the things I was born to do.
+2. I believe I'm going to die high off the people.
+3. I believe I'm going to die a revolutionary in the international revolutionary proletarian struggle.
+R= 37 P= 88.66%
+
+
+					====*38*====+
+1. I love to laugh.
+2. I love to eat.
+3. I love to hug people.
+R= 37 P= 88.66%
+
+
+					====*39*====+
+1. Have you ever seen America more divided?
+2. Have you ever seen Washington more divided?
+R= 39 P= 87.46%
+
+
+					====*40*====+
+1. I liked the theater.
+2. I liked the people.
+3. I liked the time that we worked.
+R= 40 P= 86.81%
+
+
+					====*41*====+
+1. A word of encouragement from a teacher to a child can change a life.
+2. A word of encouragement from a spouse can save a marriage.
+3. A word of encouragement from a leader can inspire a person to reach her potential.
+R= 41 P= 86.61%
+
+
+					====*42*====+
+1. I miss people-watching.
+2. I miss the nightlife.
+3. I miss the food.
+R= 42 P= 85.79%
+
+
+					====*43*====+
+1. You get ideas from daydreaming.
+2. You get ideas from being bored.
+3. You get ideas all the time.
+R= 42 P= 85.79%
+
+
+					====*44*====+
+1. It has the hands to help others.
+2. It has the feet to hasten to the poor and needy.
+3. It has eyes to see misery and want.
+4. It has the ears to hear the sighs and sorrows of men.
+R= 44 P= 85.48%
+
+
+					====*45*====+
+1. You think the communist commissar rewards virtue?
+2. You think a Hitler rewards virtue?
+3. You think, excuse me, if you'll pardon me, American presidents reward virtue?
+R= 45 P= 83.60%
+
+
+					====*46*====+
+1. Pessimists are not boring.
+2. Pessimists are right.
+3. Pessimists are superfluous.
+R= 46 P= 83.55%
+
+
+					====*47*====+
+1. I'll try anything.
+2. I'll do anything.
+3. I'll explore.
+R= 46 P= 83.55%
+
+
+					====*48*====+
+1. I have self-doubt.
+2. I have insecurity.
+3. I have fear of failure.
+4. I have nights when I show up at the arena and I'm like, 'My back hurts, my feet hurt, my knees hurt.
+R= 48 P= 82.38%
+
+
+					====*49*====+
+1. We cannot change our past.
+2. We can not change the fact that people act in a certain way.
+3. We can not change the inevitable.
+R= 49 P= 82.12%
+
+
+					====*50*====+
+1. If you have rhythm, then you can play anything you need.
+2. If you have rhythm and you love music, then play and play and play until you get to where you want to get.
+3. If you can pay the rent, great.
+4. If you can't, then you'd better be having fun.
+R= 50 P= 82.10%
+
+
+					====*51*====+
+1. How do you solve a mystery?
+2. How do you write a book?
+R= 51 P= 81.48%
+
+
+					====*52*====+
+1. I love fashion!
+2. I love clothes!
+R= 51 P= 81.48%
+
+
+					====*53*====+
+1. You think Russia doesn't run on greed?
+2. You think China doesn't run on greed?
+R= 51 P= 81.48%
+
+
+					====*54*====+
+1. What is character but the determination of incident?
+2. What is incident but the illustration of character?
+R= 51 P= 81.48%
+
+
+					====*55*====+
+1. We're not jealous.
+2. We're not envious.
+3. We're not even weary, which is a danger also as kids.
+R= 55 P= 81.04%
+
+
+					====*56*====+
+1. It's the only insurance against irrelevance.
+2. It's the only guarantee of long-term customer loyalty.
+3. It's the only strategy for out-performing a dismal economy.
+R= 56 P= 80.14%
+
+
+					====*57*====+
+1. I'm not a walking publicity stunt.
+2. I'm not an anarchist, or bitter.
+3. I'm not trying to be subversive.
+R= 57 P= 80.14%
+
+
+					====*58*====+
+1. I'm creative in my own life.
+2. I'm creative when I step out the door.
+3. I'm creative when I pick up a glass.
+R= 58 P= 79.68%
+
+
+					====*59*====+
+1. It may not save my life.
+2. It may save my children's life.
+3. It may save someone you love.
+R= 58 P= 79.68%
+
+
+					====*60*====+
+1. I've got very broad shoulders.
+2. I've got very big feet.
+3. I've also got a very muscular neck.
+R= 60 P= 77.25%
+
+
+					====*61*====+
+1. I can't deal with actors!
+2. I can't deal with myself.
+R= 61 P= 75.66%
+
+
+					====*62*====+
+1. I love to see old women.
+2. I love wrinkles.
+3. I love gray hair.
+R= 62 P= 75.16%
+
+
+					====*63*====+
+1. I enjoy it.
+2. I enjoy the people.
+3. I enjoy the fact that it's not L.A. or New York.
+R= 62 P= 75.16%
+
+
+					====*64*====+
+1. Kindness in words creates confidence.
+2. Kindness in thinking creates profoundness.
+3. Kindness in giving creates love.
+R= 62 P= 75.16%
+
+
+					====*65*====+
+1. There is no end.
+2. There is no beginning.
+3. There is only the passion of life.
+R= 62 P= 75.16%
+
+
+					====*66*====+
+1. We need 4 hugs a day for survival.
+2. We need 8 hugs a day for maintenance.
+3. We need 12 hugs a day for growth.
+R= 62 P= 75.16%
+
+
+					====*67*====+
+1. If there is dissatisfaction with the status quo, good.
+2. If there is ferment, so much the better.
+3. If there is restlessness, I am pleased.
+R= 67 P= 73.52%
+
+
+					====*68*====+
+1. He that cannot reason is a fool.
+2. He that will not is a bigot.
+3. He that dare not is a slave.
+R= 68 P= 71.80%
+
+
+					====*69*====+
+1. It was men who stopped slavery.
+2. It was men who ran up the stairs in the Twin Towers to rescue people.
+3. It was men who gave up their seats on the lifeboats of the Titanic.
+R= 68 P= 71.80%
+
+
+					====*70*====+
+1. It's thrilling.
+2. It's exhilarating.
+3. It's important to be a part of sharing.
+R= 68 P= 71.80%
+
+
+					====*71*====+
+1. It's very charming.
+2. It's very sweet.
+3. It's what the whole world should do.
+R= 68 P= 71.80%
+
+
+					====*72*====+
+1. A man without ambition is dead.
+2. A man with ambition but no love is dead.
+3. A man with ambition and love for his blessings here on earth is ever so alive.
+R= 72 P= 70.62%
+
+
+					====*73*====+
+1. It lets people be creative.
+2. It lets people be productive.
+3. It lets people learn things they didn't think they could learn before, and so in a sense it is all about potential.
+R= 73 P= 69.41%
+
+
+					====*74*====+
+1. Is it cherry cordial?
+2. Is it ruby red?
+R= 74 P= 68.80%
+
+
+					====*75*====+
+1. What is the harm of doing the right thing?
+2. What is the harm of doing our job as legislators and making sure we do not stick the entire bankruptcy community with these provisions that do not make any sense?
+R= 74 P= 68.80%
+
+
+					====*76*====+
+1. How do we take the bad out of fracking?
+2. How do you contain the water?
+3. How do we make a profit out of that?
+R= 76 P= 68.26%
+
+
+					====*77*====+
+1. Desire is poverty.
+2. Desire is the greatest impurity of the mind.
+3. Desire is the motive force for action.
+R= 77 P= 68.18%
+
+
+					====*78*====+
+1. I'm a restless soul.
+2. I'm always searching.
+3. I'm always pressing to find what truth is and what life is all about.
+R= 77 P= 68.18%
+
+
+					====*79*====+
+1. I want to rip out his heart and feed it to Lennox Lewis.
+2. I want to kill people.
+3. I want to rip their stomachs out and eat their children.
+R= 77 P= 68.18%
+
+
+					====*80*====+
+1. It was quiet and it was lonely.
+2. It was still.
+3. It was just my piano and myself.
+R= 77 P= 68.18%
+
+
+					====*81*====+
+1. Place is peace of mind and understanding.
+2. Place is knowledge of self.
+3. Place is resolution.
+R= 77 P= 68.18%
+
+
+					====*82*====+
+1. Politics is really religion.
+2. Politics is about sacredness.
+3. Politics is about offering a vision that will bind the nation together to pursue greatness.
+R= 82 P= 66.28%
+
+
+					====*83*====+
+1. There are still some blue whales.
+2. There are still some krill in Antarctica.
+3. There are a few oysters in Chesapeake Bay.
+R= 83 P= 65.63%
+
+
+					====*84*====+
+1. Sometimes you're not sure about a player.
+2. Sometimes you doubt.
+3. Sometimes you have to guess.
+R= 84 P= 64.32%
+
+
+					====*85*====+
+1. He doesn't worry about the Federal Reserve.
+2. He doesn't worry about foreign policy.
+3. He doesn't talk about civil liberties, so I would have a hard time to expect him to ever invite me to campaign with him.
+R= 85 P= 63.33%
+
+
+					====*86*====+
+1. I believe that the writer should tell a story.
+2. I believe in plot.
+3. I believe in creating characters and suspense.
+R= 86 P= 62.32%
+
+
+					====*87*====+
+1. We need to keep investing in economic and homeland security.
+2. We need to bank on the right kind of economic development.
+3. We need to embrace opportunities, but with the right kind of safeguards.
+R= 86 P= 62.32%
+
+
+					====*88*====+
+1. for you know not whence you came nor why: drink!
+2. for you know not why you go, nor where.
+R= 88 P= 62.28%
+
+
+					====*89*====+
+1. Always I pay.
+2. Always I pay.
+R= 89 P= 60.87%
+
+
+					====*90*====+
+1. I never wanted to be an actor.
+2. I never want to be an actor.
+R= 89 P= 60.87%
+
+
+					====*91*====+
+1. That was not pleasant.
+2. That was not pleasant.
+R= 89 P= 60.87%
+
+
+					====*92*====+
+1. To be full of things is to be empty of God.
+2. To be empty of things is to be full of God.
+R= 89 P= 60.87%
+
+
+					====*93*====+
+1. We didn't make no mistakes.
+2. We didn't make no mistakes.
+R= 89 P= 60.87%
+
+
+					====*94*====+
+1. You just keep pushing.
+2. You just keep pushing.
+R= 89 P= 60.87%
+
+
+					====*95*====+
+1. It's agriculture.
+2. It's golf courses.
+3. It's domestic runoff from our lawns and roads.
+R= 95 P= 60.27%
+
+
+					====*96*====+
+1. I want to do television, film, music and designing.
+2. I want to do it all!
+R= 96 P= 59.54%
+
+
+					====*97*====+
+1. If you're injured, it changes the way you move.
+2. If you're injured, it changes the way you talk.
+R= 97 P= 59.03%
+
+
+					====*98*====+
+1. I'm not saying I am going to be dominating.
+2. I'm not saying I'm going to be good.
+R= 98 P= 58.80%
+
+
+					====*99*====+
+1. If you go to work on your goals, your goals will go to work on you.
+2. If you go to work on your plan, your plan will go to work on you.
+R= 99 P= 58.10%
+
+
+					====*100*====+
+1. I was to blame when I lost.
+2. I was to blame when I won.
+R= 100 P= 57.54%
+
+
+					====*101*====+
+1. I believe I'm a good person.
+2. I believe I'm a good mom.
+R= 100 P= 57.54%
+
+
+					====*102*====+
+1. It comes from knowing we can never be so ignorant again.
+2. It comes from knowing we can never be children again.
+R= 102 P= 57.30%
+
+
+					====*103*====+
+1. It has led me not into temptation.
+2. It has reminded my husband numerous times at parties that it's time to go home.
+3. It has been a source of relief to a dinner companion.
+4. It has been a status symbol in the maternity ward.
+R= 103 P= 56.86%
+
+
+					====*104*====+
+1. I loved playing Dharma.
+2. I loved it!
+R= 104 P= 56.74%
+
+
+					====*105*====+
+1. Being stubborn can be a good thing.
+2. Being stubborn can be a bad thing.
+R= 105 P= 56.69%
+
+
+					====*106*====+
+1. To not be like your parents.
+2. To not be like your friends.
+R= 105 P= 56.69%
+
+
+					====*107*====+
+1. If you want others to be happy, practice compassion.
+2. If you want to be happy, practice compassion.
+R= 105 P= 56.69%
+
+
+					====*108*====+
+1. It's all in the bank.
+2. It's all in the great experience bank.
+R= 105 P= 56.69%
+
+
+					====*109*====+
+1. I'm so gullible.
+2. I'm so damn gullible.
+R= 105 P= 56.69%
+
+
+					====*110*====+
+1. It inspires them to be negative.
+2. It inspires them to be snarky.
+R= 105 P= 56.69%
+
+
+					====*111*====+
+1. People who don't take risks generally make about two big mistakes a year.
+2. People who do take risks generally make about two big mistakes a year.
+R= 105 P= 56.69%
+
+
+					====*112*====+
+1. That's the thing about the truth.
+2. That's the thing about real.
+R= 105 P= 56.69%
+
+
+					====*113*====+
+1. You can still love your job and feel guilty.
+2. You can still love your child and feel guilty.
+R= 105 P= 56.69%
+
+
+					====*114*====+
+1. That is why many people live in the withering negative world.
+2. That is why many people live in the Positive Faith world.
+R= 114 P= 56.09%
+
+
+					====*115*====+
+1. I don't plot the books out ahead of time, I don't plan them.
+2. I don't begin at the beginning and end at the end.
+3. I don't work with an outline and I don't work in a straight line.
+R= 115 P= 56.07%
+
+
+					====*116*====+
+1. I love working on this show.
+2. I love playing Guerrero.
+3. I love seeing where it's going.
+R= 115 P= 56.07%
+
+
+					====*117*====+
+1. A little mordida, here.
+2. A little mordida, there.
+R= 117 P= 55.28%
+
+
+					====*118*====+
+1. It is up to us.
+2. It is up to you.
+R= 117 P= 55.28%
+
+
+					====*119*====+
+1. I don't think baseball owes colored people anything.
+2. I don't think colored people owe baseball anything, either.
+R= 117 P= 55.28%
+
+
+					====*120*====+
+1. Do not spare the men.
+2. Do not spare the women.
+R= 117 P= 55.28%
+
+
+					====*121*====+
+1. I like being the thing.
+2. I like being the doer.
+R= 117 P= 55.28%
+
+
+					====*122*====+
+1. And there's always disappointment.
+2. And there's always loss.
+R= 117 P= 55.28%
+
+
+					====*123*====+
+1. We all have our secrets.
+2. We all have our vulnerabilities.
+R= 117 P= 55.28%
+
+
+					====*124*====+
+1. When I have to cry, I think about my love life.
+2. When I have to laugh, I think about my love life.
+R= 117 P= 55.28%
+
+
+					====*125*====+
+1. You become a better writer by writing.
+2. You become a better travel writer by writing about travel.
+R= 117 P= 55.28%
+
+
+					====*126*====+
+1. You only get one album.
+2. You only get one single.
+R= 117 P= 55.28%
+
+
+					====*127*====+
+1. You're going to die.
+2. You're going to be dead.
+R= 117 P= 55.28%
+
+
+					====*128*====+
+1. I like a lot of bass players.
+2. I like a lot of tuba players too.
+R= 128 P= 54.56%
+
+
+					====*129*====+
+1. You learn a lot about other people.
+2. You learn a lot about yourself.
+R= 128 P= 54.56%
+
+
+					====*130*====+
+1. I always wanna be on point.
+2. I always wanna be aware.
+R= 128 P= 54.56%
+
+
+					====*131*====+
+1. You can't have public health without working with the public sector.
+2. You can't have public education without working with the public sector in education.
+R= 128 P= 54.56%
+
+
+					====*132*====+
+1. When they turn out to be right, we anoint them.
+2. When they turn out to be wrong, we ignore them.
+R= 132 P= 54.14%
+
+
+					====*133*====+
+1. I don't think my competition is with the heroes.
+2. I don't think I'm competing with anyone.
+3. I don't mean to sound Zen, but genuinely, when I stopped competing with anything is when I started enjoying my work, and that brought out the best in me.
+R= 133 P= 53.94%
+
+
+					====*134*====+
+1. I don't think anyone should grow up wanting to go around killing people.
+2. I don't think anyone should grow up wanting to be a secret agent.
+R= 134 P= 53.37%
+
+
+					====*135*====+
+1. Don't give up.
+2. Don't ever give up.
+R= 135 P= 52.42%
+
+
+					====*136*====+
+1. Engagement is not appeasement.
+2. Engagement is not surrender.
+R= 135 P= 52.42%
+
+
+					====*137*====+
+1. I don't understand you.
+2. I don't want to understand you.
+R= 135 P= 52.42%
+
+
+					====*138*====+
+1. She's the coolest.
+2. She's the greatest.
+R= 135 P= 52.42%
+
+
+					====*139*====+
+1. I don't know what a credit bubble means.
+2. I don't even know what a bubble means.
+R= 135 P= 52.42%
+
+
+					====*140*====+
+1. You can't touch it.
+2. You can't feel it.
+R= 135 P= 52.42%
+
+
+					====*141*====+
+1. If you so choose, the challenges can make you stronger.
+2. If you so choose, the disappointments can make you more determined.
+R= 135 P= 52.42%
+
+
+					====*142*====+
+1. I get to shift multiple markets.
+2. I get to shift economies.
+R= 135 P= 52.42%
+
+
+					====*143*====+
+1. I like to be someone else.
+2. I like to be someone other than myself.
+R= 135 P= 52.42%
+
+
+					====*144*====+
+1. You can't control that.
+2. You can't change that.
+R= 135 P= 52.42%
+
+
+					====*145*====+
+1. I don't have time to feel sorry for myself.
+2. I don't have time to complain.
+R= 135 P= 52.42%
+
+
+					====*146*====+
+1. It is my love.
+2. It is my joy.
+R= 135 P= 52.42%
+
+
+					====*147*====+
+1. There will always be those people who are just backward and ignorant.
+2. There will always be those people.
+R= 135 P= 52.42%
+
+
+					====*148*====+
+1. You have to stay in your heart.
+2. You have to be in your heart.
+R= 135 P= 52.42%
+
+
+					====*149*====+
+1. Too much coffee.
+2. Too much coffee and Gatorade.
+R= 135 P= 52.42%
+
+
+					====*150*====+
+1. We are not human beings having a spiritual experience.
+2. We are spiritual beings having a human experience.
+R= 135 P= 52.42%
+
+
+					====*151*====+
+1. We're comic.
+2. We're all comics.
+R= 135 P= 52.42%
+
+
+					====*152*====+
+1. When I am working, I am working.
+2. When I am promoting, I am promoting.
+R= 135 P= 52.42%
+
+
+					====*153*====+
+1. When I do good, I feel good.
+2. When I do bad, I feel bad.
+R= 135 P= 52.42%
+
+
+					====*154*====+
+1. Who controls the past controls the future.
+2. Who controls the present controls the past.
+R= 135 P= 52.42%
+
+
+					====*155*====+
+1. I don't have time to feel sorry for myself.
+2. I don't have time to complain.
+R= 135 P= 52.42%
+
+
+					====*156*====+
+1. Work on your craft, and your career will come.
+2. Work on your community, and your career will come.
+R= 135 P= 52.42%
+
+
+					====*157*====+
+1. You recognize a survivor when you see one.
+2. You recognize a fighter when you see one.
+R= 135 P= 52.42%
+
+
+					====*158*====+
+1. I'm not good at hiding my feelings.
+2. I'm also not good at lying.
+3. I'm very open about everything.
+R= 158 P= 51.79%
+
+
+					====*159*====+
+1. When we see a lack of leadership coming from the White House, that's what brings leaders in Turkey to attack Israel the way they do.
+2. When we see a lack of leadership coming from the White House, that's why we see the leader of Iran... continuing to build the nuclear reactors.
+R= 159 P= 51.19%
+
+
+					====*160*====+
+1. Some people see things that are and ask, Why?
+2. Some people dream of things that never were and ask, Why not?
+3. Some people have to go to work and don't have time for all that.
+R= 160 P= 50.41%
+
+
+					====*161*====+
+1. It's got to go.
+2. It's got to go a long way from here.
+R= 161 P= 50.26%
+
+
+					====*162*====+
+1. I don't want to say I can't wait to get back to normal life, because I don't.
+2. I don't want to get back to normal life.
+R= 161 P= 50.26%
+
+
+					====*163*====+
+1. There are all kinds of sexualities.
+2. There are all kinds of ways that people express their sexuality.
+R= 161 P= 50.26%
+
+
+					====*164*====+
+1. America is ready for livable communities.
+2. America is ready for high-speed rail.
+R= 164 P= 49.54%
+
+
+					====*165*====+
+1. Have the courage to say no.
+2. Have the courage to face the truth.
+R= 164 P= 49.54%
+
+
+					====*166*====+
+1. I don't know technology and engineering.
+2. I don't know accounting.
+R= 164 P= 49.54%
+
+
+					====*167*====+
+1. I don't have any plans.
+2. I don't have a map.
+R= 164 P= 49.54%
+
+
+					====*168*====+
+1. You became a more humble person.
+2. You became a more merciful and compassionate person.
+R= 164 P= 49.54%
+
+
+					====*169*====+
+1. I wish I wasn't.
+2. I wish I was raised by wolves.
+R= 164 P= 49.54%
+
+
+					====*170*====+
+1. I'm Jamaican, man.
+2. I'm Jamaican first.
+R= 170 P= 48.10%
+
+
+					====*171*====+
+1. I'm not the new Cameron Diaz.
+2. I'm not the new Keira Knightley, either.
+R= 170 P= 48.10%
+
+
+					====*172*====+
+1. Into thy hands, O Lord.
+2. Into thy hands.
+R= 170 P= 48.10%
+
+
+					====*173*====+
+1. It's like, it's really bad.
+2. It's like Paula-Deen-glazed-bacon-doughnut bad.
+R= 170 P= 48.10%
+
+
+					====*174*====+
+1. My religion is very simple.
+2. My religion is kindness.
+R= 170 P= 48.10%
+
+
+					====*175*====+
+1. There is no power in cynicism.
+2. There is no forward thrust in cynicism.
+R= 170 P= 48.10%
+
+
+					====*176*====+
+1. To be realistic today is to be visionary.
+2. To be realistic is to be starry-eyed.
+R= 170 P= 48.10%
+
+
+					====*177*====+
+1. Then, you love them.
+2. Then, you apologize.
+R= 170 P= 48.10%
+
+
+					====*178*====+
+1. You become a student.
+2. You become an investigative reporter.
+R= 170 P= 48.10%
+
+
+					====*179*====+
+1. There are a lot of bad dressers in golf, and I don't think I'm one of them.
+2. There are a lot of bad dressers in every business.
+R= 179 P= 47.49%
+
+
+					====*180*====+
+1. Get up, stand up, Stand up for your rights.
+2. Get up, stand up, Don't give up the fight.
+R= 180 P= 47.24%
+
+
+					====*181*====+
+1. I can do no other than be reverent before everything that is called life.
+2. I can do no other than to have compassion for all that is called life.
+R= 180 P= 47.24%
+
+
+					====*182*====+
+1. If he wants to know what a chair is, I can point to the chair.
+2. If he wants to know what religion is, I can't point to anything in particular.
+R= 180 P= 47.24%
+
+
+					====*183*====+
+1. What is modern art but the attempt to pinpoint vague, incorporeal, inexpressible sensations?
+2. What is modern art, I would add, but the most solemn pile of nonsense that ever appeared on Earth?
+R= 183 P= 46.76%
+
+
+					====*184*====+
+1. An old book smells even better.
+2. An old book smells like ancient Egypt.
+R= 184 P= 46.67%
+
+
+					====*185*====+
+1. It helps to shape who I am.
+2. It helps to shape my values.
+R= 184 P= 46.67%
+
+
+					====*186*====+
+1. If you talk to a man in a language he understands, that goes to his head.
+2. If you talk to him in his language, that goes to his heart.
+R= 184 P= 46.67%
+
+
+					====*187*====+
+1. I went to an Episcopal high school.
+2. I went to a Baptist college.
+R= 184 P= 46.67%
+
+
+					====*188*====+
+1. Nobody can give you freedom.
+2. Nobody can give you equality or justice or anything.
+R= 184 P= 46.67%
+
+
+					====*189*====+
+1. Our deepest fear is not that we are inadequate.
+2. Our deepest fear is that we are powerful beyond measure.
+R= 184 P= 46.67%
+
+
+					====*190*====+
+1. The actor has to develop his body.
+2. The actor has to work on his voice.
+R= 184 P= 46.67%
+
+
+					====*191*====+
+1. The danger of the past was that men became slaves.
+2. The danger of the future is that man may become robots.
+R= 184 P= 46.67%
+
+
+					====*192*====+
+1. No one will die because of bad acting.
+2. No one will die because you missed a cue.
+R= 192 P= 45.95%
+
+
+					====*193*====+
+1. We're not doing it to sell products.
+2. We're not doing it to be popular.
+3. We're doing it because in our judgment these stories are important to do, and at this length and this much depth.
+R= 193 P= 44.90%
+
+
+					====*194*====+
+1. To be greedy.
+2. To be hateful.
+R= 194 P= 43.82%
+
+
+					====*195*====+
+1. I'm cured.
+2. I'm well.
+R= 194 P= 43.82%
+
+
+					====*196*====+
+1. I have been received.
+2. I have been adopted by America.
+R= 194 P= 43.82%
+
+
+					====*197*====+
+1. They're familiar.
+2. They're obedient.
+R= 194 P= 43.82%
+
+
+					====*198*====+
+1. Change is inevitable.
+2. Change is constant.
+R= 194 P= 43.82%
+
+
+					====*199*====+
+1. Doing what you want to do is easy.
+2. Doing what you have to do is hard.
+R= 194 P= 43.82%
+
+
+					====*200*====+
+1. He loves everybody.
+2. He loves you.
+R= 194 P= 43.82%
+
+
+					====*201*====+
+1. I'm always aware of the light.
+2. I'm always aware of what I would call the 'deep composition.'
+R= 194 P= 43.82%
+
+
+					====*202*====+
+1. And I'm not judgmental.
+2. And I'm a vegetarian.
+R= 194 P= 43.82%
+
+
+					====*203*====+
+1. I believe in a higher power.
+2. I believe in inspiration.
+R= 194 P= 43.82%
+
+
+					====*204*====+
+1. That future is our destiny.
+2. That future is out there.
+R= 194 P= 43.82%
+
+
+					====*205*====+
+1. If you break 100, watch your golf.
+2. If you break 80, watch your business.
+R= 194 P= 43.82%
+
+
+					====*206*====+
+1. If you can imagine it, you can achieve it.
+2. If you can dream it, you can become it.
+R= 194 P= 43.82%
+
+
+					====*207*====+
+1. I get mad.
+2. I get sad.
+R= 194 P= 43.82%
+
+
+					====*208*====+
+1. I love shoes.
+2. I love handbags.
+R= 194 P= 43.82%
+
+
+					====*209*====+
+1. In a country well governed, poverty is something to be ashamed of.
+2. In a country badly governed, wealth is something to be ashamed of.
+R= 194 P= 43.82%
+
+
+					====*210*====+
+1. In matters of conscience, first thoughts are best.
+2. In matters of prudence, last thoughts are best.
+R= 194 P= 43.82%
+
+
+					====*211*====+
+1. I had success.
+2. I had security.
+R= 194 P= 43.82%
+
+
+					====*212*====+
+1. The people who cast the votes decide nothing.
+2. The people who count the votes decide everything.
+R= 194 P= 43.82%
+
+
+					====*213*====+
+1. And you have children.
+2. And you have a house and a dog.
+R= 194 P= 43.82%
+
+
+					====*214*====+
+1. It's death.
+2. It's meaningless.
+R= 194 P= 43.82%
+
+
+					====*215*====+
+1. I was actually very ugly.
+2. I was ugly.
+R= 194 P= 43.82%
+
+
+					====*216*====+
+1. Maybe I am a jerk sometimes.
+2. Maybe I'm not.
+R= 194 P= 43.82%
+
+
+					====*217*====+
+1. We played before school.
+2. We played after school.
+R= 194 P= 43.82%
+
+
+					====*218*====+
+1. My father was a statesman, I am a political woman.
+2. My father was a saint.
+R= 194 P= 43.82%
+
+
+					====*219*====+
+1. It's calming.
+2. It's soothing.
+R= 194 P= 43.82%
+
+
+					====*220*====+
+1. To be believed, it must be credible.
+2. To be credible, it must be true.
+R= 194 P= 43.82%
+
+
+					====*221*====+
+1. The guy who invented the first wheel was an idiot.
+2. The guy who invented the other three, he was a genius.
+R= 194 P= 43.82%
+
+
+					====*222*====+
+1. Like my body.
+2. Like my wheelchair.
+R= 194 P= 43.82%
+
+
+					====*223*====+
+1. Today was good.
+2. Today was fun.
+R= 194 P= 43.82%
+
+
+					====*224*====+
+1. Some take us back, they're called memories.
+2. Some take us forward, they're called dreams.
+R= 194 P= 43.82%
+
+
+					====*225*====+
+1. We just are.
+2. We just are, and what happens just happens.
+R= 194 P= 43.82%
+
+
+					====*226*====+
+1. I didn't speak French.
+2. I didn't know anyone.
+R= 194 P= 43.82%
+
+
+					====*227*====+
+1. I'm a master of heels.
+2. I'm used to them.
+3. I'm tiny, so I wear them all the time.
+R= 227 P= 43.20%
+
+
+					====*228*====+
+1. If I ever cut into a birthday cake and made a wish, I would wish to be on 'Saturday Night Live.'
+2. If I threw a coin into a fountain, I would wish to be on 'Saturday Night Live.'
+3. If I saw a shooting star, I would wish to be on 'Saturday Night Live.'
+R= 227 P= 43.20%
+
+
+					====*229*====+
+1. If you so choose, every mistake can lead to greater understanding and effectiveness.
+2. If you so choose, every frustration can help you to be more patient and more persistent.
+R= 229 P= 42.13%
+
+
+					====*230*====+
+1. I am not bound to win, but I am bound to be true.
+2. I am not bound to succeed, but I am bound to live by the light that I have.
+R= 230 P= 41.71%
+
+
+					====*231*====+
+1. I love the idea of anthropomorphizing machines.
+2. I love the idea of taking technology and giving it a personality.
+R= 230 P= 41.71%
+
+
+					====*232*====+
+1. And I won't let them be diluted and softened.
+2. And I won't let them be exploited and made guilty of the sins that are being commented on in the books.'
+R= 232 P= 41.01%
+
+
+					====*233*====+
+1. The stories we tell about each other matter very much.
+2. The stories we tell ourselves about our own lives matter.
+R= 232 P= 41.01%
+
+
+					====*234*====+
+1. You've got to keep watering it.
+2. You've got to really look after it and nurture it.
+R= 232 P= 41.01%
+
+
+					====*235*====+
+1. He who learns but does not think, is lost!
+2. He who thinks but does not learn is in great danger.
+R= 235 P= 39.67%
+
+
+					====*236*====+
+1. I don't copy recipes without trying them out.
+2. I don't reprint without trying them again.
+R= 236 P= 39.62%
+
+
+					====*237*====+
+1. If you pretend to be good, the world takes you very seriously.
+2. If you pretend to be bad, it doesn't.
+R= 236 P= 39.62%
+
+
+					====*238*====+
+1. That's what a song is.
+2. That's what I want to hear in a song.
+R= 236 P= 39.62%
+
+
+					====*239*====+
+1. That wasn't a dream.
+2. That wasn't some weird fantasy.
+R= 236 P= 39.62%
+
+
+					====*240*====+
+1. There is no anything.
+2. There is no beating around the bush.
+R= 236 P= 39.62%
+
+
+					====*241*====+
+1. I'm for truth, no matter who tells it.
+2. I'm for justice, no matter who it's for or against.
+R= 236 P= 39.62%
+
+
+					====*242*====+
+1. I played in three countries.
+2. I played in two World Series.
+R= 236 P= 39.62%
+
+
+					====*243*====+
+1. It has to go to the bathroom.
+2. It has to be comfortable.
+R= 236 P= 39.62%
+
+
+					====*244*====+
+1. The death of one man is a tragedy.
+2. The death of millions is a statistic.
+R= 236 P= 39.62%
+
+
+					====*245*====+
+1. If you do that, you're in control of your life.
+2. If you don't, life controls you.
+R= 236 P= 39.62%
+
+
+					====*246*====+
+1. The winner's edge is not in a gifted birth, a high IQ, or in talent.
+2. The winner's edge is all in the attitude, not aptitude.
+R= 236 P= 39.62%
+
+
+					====*247*====+
+1. That's not what rap is.
+2. That's not hip-hop at all.
+R= 236 P= 39.62%
+
+
+					====*248*====+
+1. We do not need more intellectual power, we need more spiritual power.
+2. We do not need more of the things that are seen, we need more of the things that are unseen.
+R= 236 P= 39.62%
+
+
+					====*249*====+
+1. You have to apologize whether you want to or not.
+2. You have to.
+R= 236 P= 39.62%
+
+
+					====*250*====+
+1. I do yoga.
+2. I do tai chi.
+3. I do a lot to keep my body and my spirit together so I can work.
+R= 250 P= 39.02%
+
+
+					====*251*====+
+1. I like a lot of food.
+2. I like Taiwanese food, of course.
+3. I like baguettes, especially the ones that my dad buys.
+R= 250 P= 39.02%
+
+
+					====*252*====+
+1. Everybody needs something to do regardless of age.
+2. Everybody needs someone to love.
+3. Everybody needs something to hope for, and, of course, everybody needs someone to believe in.
+R= 250 P= 39.02%
+
+
+					====*253*====+
+1. Bands don't last.
+2. Bands don't last forever - it's a rarity when they do.
+R= 253 P= 38.26%
+
+
+					====*254*====+
+1. I like to go and do something adventurous.
+2. I like to go out and do some sort of crazy activity.
+R= 253 P= 38.26%
+
+
+					====*255*====+
+1. I've got a transcendental way of thinking about things.
+2. I've got a galactic self.
+R= 253 P= 38.26%
+
+
+					====*256*====+
+1. I want to make an album my grandma and my fans are going to like.
+2. I want to make my grandma understand a drop and make club fans understand a song.
+R= 253 P= 38.26%
+
+
+					====*257*====+
+1. The more that you read, the more things you will know.
+2. The more that you learn, the more places you'll go.
+R= 253 P= 38.26%
+
+
+					====*258*====+
+1. I'm going to be a veterinarian.
+2. I'm going to work at Wetzel's Pretzels.'
+R= 253 P= 38.26%
+
+
+					====*259*====+
+1. It is a sound of peace.
+2. It is a sound of, 'I'm going to make it through all of this.'
+R= 259 P= 37.58%
+
+
+					====*260*====+
+1. It is high time that the Palestinian people restore their freedom and independence.
+2. It is high time that the decades, the long decades of suffering and pain would stop.
+R= 260 P= 37.17%
+
+
+					====*261*====+
+1. Who has sent you against me?
+2. Who has told you to do this thing?
+R= 261 P= 35.66%
+
+
+					====*262*====+
+1. Don't walk in front of me, I may not follow.
+2. Don't walk behind me, I may not lead.
+R= 262 P= 35.58%
+
+
+					====*263*====+
+1. I'm a movie fan.
+2. I'm a nerd of any kind.
+R= 262 P= 35.58%
+
+
+					====*264*====+
+1. Food is a passion.
+2. Food is love.
+R= 262 P= 35.58%
+
+
+					====*265*====+
+1. I was chosen.
+2. I was special.'
+R= 262 P= 35.58%
+
+
+					====*266*====+
+1. I am bullish on the global development.
+2. I am bullish on billions of people getting out of poverty.
+R= 262 P= 35.58%
+
+
+					====*267*====+
+1. I am not a has-been.
+2. I am a will be.
+R= 262 P= 35.58%
+
+
+					====*268*====+
+1. I am not a speed reader.
+2. I am a speed understander.
+R= 262 P= 35.58%
+
+
+					====*269*====+
+1. I have a great band.
+2. I have a drummer from East Berlin.
+R= 262 P= 35.58%
+
+
+					====*270*====+
+1. I don't have an iPod.
+2. I don't get the whole iPod thing.
+R= 262 P= 35.58%
+
+
+					====*271*====+
+1. I don't like to be talked into anything.
+2. I don't want to be cajoled.
+R= 262 P= 35.58%
+
+
+					====*272*====+
+1. I love women.
+2. I love their bodies.
+R= 262 P= 35.58%
+
+
+					====*273*====+
+1. I did that.
+2. I did my part.
+R= 262 P= 35.58%
+
+
+					====*274*====+
+1. I grew up in a family of actors.
+2. I grew up onstage.
+R= 262 P= 35.58%
+
+
+					====*275*====+
+1. I'm an officer in her Majesty's Royal New Zealand Navy.
+2. I'm a public relations officer in the Royal New Zealand Navy.
+R= 262 P= 35.58%
+
+
+					====*276*====+
+1. If you do it 10 times, nobody wants to work for you.
+2. If you do it zero times, you have anarchy.
+R= 262 P= 35.58%
+
+
+					====*277*====+
+1. I want to be on the ice.
+2. I want to continue contributing to the sport.
+R= 262 P= 35.58%
+
+
+					====*278*====+
+1. It was rainy.
+2. It was all wrong.
+R= 262 P= 35.58%
+
+
+					====*279*====+
+1. I wasn't a bad kid.
+2. I was a good kid.
+R= 262 P= 35.58%
+
+
+					====*280*====+
+1. Life isn't about finding yourself.
+2. Life is about creating yourself.
+R= 262 P= 35.58%
+
+
+					====*281*====+
+1. I was 16.
+2. I was very young.
+R= 262 P= 35.58%
+
+
+					====*282*====+
+1. The more I expect, the more unhappy I am going to be.
+2. The more I accept, the more serene I am.
+R= 262 P= 35.58%
+
+
+					====*283*====+
+1. That was between us.
+2. That was private.
+R= 262 P= 35.58%
+
+
+					====*284*====+
+1. Those that don't got it, can't show it.
+2. Those that got it, can't hide it.
+R= 262 P= 35.58%
+
+
+					====*285*====+
+1. To love and win is the best thing.
+2. To love and lose, the next best.
+R= 262 P= 35.58%
+
+
+					====*286*====+
+1. We are not special.
+2. We are not crap or trash, either.
+R= 262 P= 35.58%
+
+
+					====*287*====+
+1. We have to wake up.
+2. We have to refuse to be a clone.
+R= 262 P= 35.58%
+
+
+					====*288*====+
+1. You read Voltaire.
+2. You read modern literature.
+R= 262 P= 35.58%
+
+
+					====*289*====+
+1. When you're a short actor you stand on apple boxes, you walk on a ramp.
+2. When you're a short star everybody else walks in a ditch.
+R= 262 P= 35.58%
+
+
+					====*290*====+
+1. You are responsible, forever, for what you have tamed.
+2. You are responsible for your rose.
+R= 262 P= 35.58%
+
+
+					====*291*====+
+1. You have to be tough.
+2. You have to make decisions and be a businesswoman.
+R= 262 P= 35.58%
+
+
+					====*292*====+
+1. If you don't show it realistically, then that's immoral and harmful.
+2. If you don't upset people, then that's obscenity.
+R= 262 P= 35.58%
+
+
+					====*293*====+
+1. It's more than just a race, it's a style.
+2. It's doing something better than anyone else.
+3. It's being creative.
+R= 293 P= 35.00%
+
+
+					====*294*====+
+1. It's more than just a race, it's style.
+2. It's doing something better than anyone else.
+3. It's being creative.
+R= 293 P= 35.00%
+
+
+					====*295*====+
+1. I don't think anybody in my family thought it was an intelligent choice.
+2. I don't think anybody thought I'd succeed, which is understandable.
+R= 295 P= 33.62%
+
+
+					====*296*====+
+1. I think she is a smart, beautiful girl.
+2. I think she's making all the right moves.
+R= 296 P= 32.98%
+
+
+					====*297*====+
+1. They want you to be like you were in 1969.
+2. They want you to, because otherwise their youth goes with you.
+R= 296 P= 32.98%
+
+
+					====*298*====+
+1. I don't want to be a celebrity.
+2. I don't want to be in people's faces, you know, constantly on covers of magazine that I haven't even known I'm on.
+R= 298 P= 32.48%
+
+
+					====*299*====+
+1. We are the ones we've been waiting for.
+2. We are the change that we seek.
+R= 299 P= 31.72%
+
+
+					====*300*====+
+1. Day after day we must remember we can take freedom for granted.
+2. Day after day we must keep the bond between freedom and other values in mind.
+R= 299 P= 31.72%
+
+
+					====*301*====+
+1. Everyone's a geek in some way or other.
+2. Everyone's an outsider.
+R= 299 P= 31.72%
+
+
+					====*302*====+
+1. You can't get any traction.
+2. You can't build on a system.
+R= 299 P= 31.72%
+
+
+					====*303*====+
+1. It would be nice to grow my fingernails out.
+2. It would be healthier.
+R= 299 P= 31.72%
+
+
+					====*304*====+
+1. If you so choose, even the unexpected setbacks can bring new and positive possibilities.
+2. If you so choose, you can find value and fulfillment in every circumstance.
+R= 299 P= 31.72%
+
+
+					====*305*====+
+1. If you want to get laid, go to college.
+2. If you want an education, go to the library.
+R= 299 P= 31.72%
+
+
+					====*306*====+
+1. I have always been driven.
+2. I have always believed in what I believe very deeply.
+R= 299 P= 31.72%
+
+
+					====*307*====+
+1. I like the wild characters.
+2. I like the idea of being a character actor without being a character actor.
+R= 299 P= 31.72%
+
+
+					====*308*====+
+1. I'm not somebody who runs from the press.
+2. I'm not coy.
+R= 299 P= 31.72%
+
+
+					====*309*====+
+1. I never planned my career.
+2. I never planned to be president of Harvard.
+R= 299 P= 31.72%
+
+
+					====*310*====+
+1. I wanted to be a writer.
+2. I wanted to say something about home.
+R= 299 P= 31.72%
+
+
+					====*311*====+
+1. I didn't know what to do.
+2. I didn't know what it meant, so I instantly grabbed her face and kissed her on the lips.
+R= 299 P= 31.72%
+
+
+					====*312*====+
+1. What we need is not more distrust and division.
+2. What we need now is acceptance.
+R= 299 P= 31.72%
+
+
+					====*313*====+
+1. You have to steal a lot.
+2. You have to have a criminal mentality to be a film director.
+R= 299 P= 31.72%
+
+
+					====*314*====+
+1. I think fitness is important.
+2. I think a healthy lifestyle is important.
+3. I think putting positive energy out there is important and just staying connected with the people.
+R= 314 P= 31.18%
+
+
+					====*315*====+
+1. I was a really good student.
+2. I was nerdy and ambitious.
+3. I was involved with every large theater production at my school.
+R= 314 P= 31.18%
+
+
+					====*316*====+
+1. We didn't become the most prosperous country in the world just by rewarding greed and recklessness.
+2. We didn't come this far by letting the special interests run wild.
+3. We didn't do it just by gambling and chasing paper profits on Wall Street.
+R= 314 P= 31.18%
+
+
+					====*317*====+
+1. Anything that's not positive, I don't have the energy to focus on it.
+2. Anything that's not going in the right direction, I don't have the time or the energy.
+R= 317 P= 30.49%
+
+
+					====*318*====+
+1. I don't think lying has any ultimate justification.
+2. I don't think it ever leads to anything positive.
+R= 317 P= 30.49%
+
+
+					====*319*====+
+1. The real you is loving, joyful, and free.
+2. The real you is just like a flower, just like the wind, just like the ocean, just like the sun.
+R= 317 P= 30.49%
+
+
+					====*320*====+
+1. You must learn to exist with no religion, no country, no allies.
+2. You must learn to live alone in silence.
+R= 317 P= 30.49%
+
+
+					====*321*====+
+1. It's not about zigging when you should zag.
+2. It's not about doing something unprecedented and unpredictable.
+3. It's just about never being a word, or something that is not in the process of transformation.
+R= 321 P= 29.96%
+
+
+					====*322*====+
+1. I'd rather talk about deep subjects.
+2. I'd rather talk about meditation, or the world, or the trees or animals, than small, inane, you know, banter.
+R= 322 P= 29.89%
+
+
+					====*323*====+
+1. How many submarines can you blow up?
+2. How many control rooms are evaporating?
+R= 323 P= 28.18%
+
+
+					====*324*====+
+1. I don't make 'em up.
+2. I don't even know when I say it.
+R= 324 P= 28.11%
+
+
+					====*325*====+
+1. Be extremely subtle, even to the point of formlessness.
+2. Be extremely mysterious, even to the point of soundlessness.
+R= 324 P= 28.11%
+
+
+					====*326*====+
+1. Both my parents came with their parents during the revolution in Cuba.
+2. Both my parents were born in Cuba.
+R= 324 P= 28.11%
+
+
+					====*327*====+
+1. Everybody came.
+2. Everybody came to the Cotton Club.
+R= 324 P= 28.11%
+
+
+					====*328*====+
+1. Was accused of fomenting a riot.
+2. Was accused of plotting to kill the warden.
+R= 324 P= 28.11%
+
+
+					====*329*====+
+1. It was work.
+2. It was a dignified job.
+R= 324 P= 28.11%
+
+
+					====*330*====+
+1. I do like to have fun.
+2. I don't need alcohol to have fun.
+R= 324 P= 28.11%
+
+
+					====*331*====+
+1. I feel like I'm constantly falling behind.
+2. I feel like every day I'm out of the office I'm falling behind.
+R= 324 P= 28.11%
+
+
+					====*332*====+
+1. If you bring forth what is within you, what you bring forth will save you.
+2. If you do not bring forth what is within you, what you do not bring forth will destroy you.
+R= 324 P= 28.11%
+
+
+					====*333*====+
+1. Tell them all of that.
+2. Tell them today.
+R= 324 P= 28.11%
+
+
+					====*334*====+
+1. If you're studying for an exam you're not thinking about the results.
+2. If you're always worried about the results, you can't study a lot.
+R= 324 P= 28.11%
+
+
+					====*335*====+
+1. I like conventions.
+2. I like meeting and greeting.
+R= 324 P= 28.11%
+
+
+					====*336*====+
+1. I like stories.
+2. I like to hear them.
+R= 324 P= 28.11%
+
+
+					====*337*====+
+1. I love parties.
+2. I love a good time.
+R= 324 P= 28.11%
+
+
+					====*338*====+
+1. I love physicality.
+2. I love movement very much.
+R= 324 P= 28.11%
+
+
+					====*339*====+
+1. I'm a big fan of Alan J. Pakula's films like 'All the President's Men', 'The Parallax View,' and 'Klute.'
+2. I'm a big fan of those movies.
+R= 324 P= 28.11%
+
+
+					====*340*====+
+1. I'm a country bumpkin.
+2. I'm not a showgirl.
+R= 324 P= 28.11%
+
+
+					====*341*====+
+1. I'm here.
+2. I'm not going anywhere.
+R= 324 P= 28.11%
+
+
+					====*342*====+
+1. I'm highly emotional.
+2. I'm very vulnerable.
+R= 324 P= 28.11%
+
+
+					====*343*====+
+1. That's a coward.
+2. That's not me.
+R= 324 P= 28.11%
+
+
+					====*344*====+
+1. I tried to give it up, believe me.
+2. I tried to kick the habit.
+R= 324 P= 28.11%
+
+
+					====*345*====+
+1. Some are very important choices.
+2. Some are not.
+R= 324 P= 28.11%
+
+
+					====*346*====+
+1. It's a business.
+2. It's not personal.
+R= 324 P= 28.11%
+
+
+					====*347*====+
+1. It taught me something.
+2. It taught you your craft.
+R= 324 P= 28.11%
+
+
+					====*348*====+
+1. I was an English major in college.
+2. I was a deluded poet for a year.
+R= 324 P= 28.11%
+
+
+					====*349*====+
+1. I've never been opposed to nudity.
+2. I've been opposed to nudity for box-office draw.
+R= 324 P= 28.11%
+
+
+					====*350*====+
+1. I wake up every morning and I surprise myself.
+2. I wake up to a new me.
+R= 324 P= 28.11%
+
+
+					====*351*====+
+1. I write human stories.
+2. I write about people.
+R= 324 P= 28.11%
+
+
+					====*352*====+
+1. They don't know how to buy a house or a car or health insurance or life insurance.
+2. They do not know basic microeconomics.
+R= 324 P= 28.11%
+
+
+					====*353*====+
+1. Let it come to you.
+2. Let it happen.
+R= 324 P= 28.11%
+
+
+					====*354*====+
+1. None so deaf as those that will not hear.
+2. None so blind as those that will not see.
+R= 324 P= 28.11%
+
+
+					====*355*====+
+1. No one ever said 'no' to me about anything.
+2. No one ever told me anything was wrong.
+R= 324 P= 28.11%
+
+
+					====*356*====+
+1. Rule No.1: Never lose money.
+2. Rule No.2: Never forget rule No.1.
+R= 324 P= 28.11%
+
+
+					====*357*====+
+1. It's still their ball game.
+2. It's their show.
+R= 324 P= 28.11%
+
+
+					====*358*====+
+1. The cat does not offer services.
+2. The cat offers itself.
+R= 324 P= 28.11%
+
+
+					====*359*====+
+1. They hate to take medication - and they hate to go to doctors.
+2. They hate to come to grips.
+R= 324 P= 28.11%
+
+
+					====*360*====+
+1. The secret is not to make a film that causes something like Virginia Tech to happen.
+2. The secret is to make a film that stops it happening.
+R= 324 P= 28.11%
+
+
+					====*361*====+
+1. The word 'Islam' means 'peace.'
+2. The word 'Muslim' means 'one who surrenders to God.'
+R= 324 P= 28.11%
+
+
+					====*362*====+
+1. We cannot waste time.
+2. We can only waste ourselves.
+R= 324 P= 28.11%
+
+
+					====*363*====+
+1. I want to take his manhood.
+2. I want to rip out his heart and show it to him.
+R= 324 P= 28.11%
+
+
+					====*364*====+
+1. When I'm not writing or tweaking my computer, I do embroidery.
+2. When I'm not plunging into the past, tweaking, or embroidering, I'm reading books about history, computers, or embroidery.
+R= 324 P= 28.11%
+
+
+					====*365*====+
+1. You are not a human being in search of a spiritual experience.
+2. You are a spiritual being immersed in a human experience.
+R= 324 P= 28.11%
+
+
+					====*366*====+
+1. You have brains in your head.
+2. You have feet in your shoes.
+R= 324 P= 28.11%
+
+
+					====*367*====+
+1. There's nobility in that.
+2. There's focus.
+R= 324 P= 28.11%
+
+
+					====*368*====+
+1. The pursuit of peace and progress cannot end in a few years in either victory or defeat.
+2. The pursuit of peace and progress, with its trials and its errors, its successes and its setbacks, can never be relaxed and never abandoned.
+R= 368 P= 26.73%
+
+
+					====*369*====+
+1. I'd much rather dress like a 5 year old than a 21 year old.
+2. I'd much rather wear a puffy sleeved shirt than some low-cut top.
+R= 369 P= 25.84%
+
+
+					====*370*====+
+1. I was trained to be an actor, not a star.
+2. I was trained to play roles, not to deal with fame and agents and lawyers and the press.
+R= 369 P= 25.84%
+
+
+					====*371*====+
+1. Pneumococcal disease is a real threat.
+2. Pneumococcal disease is a bacterial infection that causes anything from middle ear infection to pneumonia to meningitis.
+R= 369 P= 25.84%
+
+
+					====*372*====+
+1. With integrity, you have nothing to fear, since you have nothing to hide.
+2. With integrity, you will do the right thing, so you will have no guilt.
+R= 369 P= 25.84%
+
+
+					====*373*====+
+1. We have to build the boat for them.
+2. We have to give them the basic infrastructure to rise with the tide.
+R= 373 P= 24.75%
+
+
+					====*374*====+
+1. As big as Metallica are, they're still not like a pop act.
+2. As big as they are, they're still not U2 or Lady Gaga.
+R= 373 P= 24.75%
+
+
+					====*375*====+
+1. I believe in entrepreneurs.
+2. I believe in their ability to make positive change in the world.
+R= 373 P= 24.75%
+
+
+					====*376*====+
+1. I wanted to do theater.
+2. I wanted to be the grand dame of the American stage.
+R= 373 P= 24.75%
+
+
+					====*377*====+
+1. I'd like to be a more consistent starter.
+2. I'd like a smoother transition from crouching to running.
+R= 373 P= 24.75%
+
+
+					====*378*====+
+1. I like those kinds of songs that have details that you remember and that have stories that mean something and that open up into different levels philosophically.
+2. I like those kinds of movies, and I like those kinds of books.
+R= 373 P= 24.75%
+
+
+					====*379*====+
+1. I love the diversity of America.
+2. I love the plain, normal sense of humor Americans have.
+R= 373 P= 24.75%
+
+
+					====*380*====+
+1. I'm glad the truth is out.
+2. I'm glad everyone knows I'm innocent, not guilty.
+R= 373 P= 24.75%
+
+
+					====*381*====+
+1. I think Jim got screwed.
+2. I think Jim Bakker would have been a great preacher.
+R= 373 P= 24.75%
+
+
+					====*382*====+
+1. I've never turned down an autograph request.
+2. I've never not taken a picture with someone.
+R= 373 P= 24.75%
+
+
+					====*383*====+
+1. Everyone wants to be thin, but nobody wants to diet.
+2. Everyone wants to live long, but few will exercise.
+R= 373 P= 24.75%
+
+
+					====*384*====+
+1. You have to persevere and be willing to put everything in it.
+2. You have to stick it out.
+R= 373 P= 24.75%
+
+
+					====*385*====+
+1. I really trust Susan Stroman.
+2. I really think she knows what she's doing.
+3. I really trust Andrew Lippa and John August.
+R= 385 P= 24.29%
+
+
+					====*386*====+
+1. It's like the ultimate rest.
+2. It's better than the best sleep you've ever had.
+3. It's a quieting of the mind.
+R= 385 P= 24.29%
+
+
+					====*387*====+
+1. To make a deep physical path, we walk again and again.
+2. To make a deep mental path, we must think over and over the kind of thoughts we wish to dominate our lives.
+R= 387 P= 23.70%
+
+
+					====*388*====+
+1. I listen to my writer friends when they kindly offer criticism.
+2. I listen to my husband when he tells me something doesn't seem right.
+R= 387 P= 23.70%
+
+
+					====*389*====+
+1. I think that's good that I have to watch how I act and what I say.
+2. I think that's a part of growing up.
+R= 387 P= 23.70%
+
+
+					====*390*====+
+1. I just want to keep doing things completely different from the other.
+2. I just want to keep working with great people, great filmmakers and great actors and just building on that experience.
+R= 390 P= 23.18%
+
+
+					====*391*====+
+1. I did not think that I was angry, but clearly anger was reflected in my writing.
+2. I did not think that I had been affected emotionally, but it was clear from my writing that I was still very emotional about the trial some six months after it ended.
+R= 391 P= 22.88%
+
+
+					====*392*====+
+1. Acting is not about dressing up.
+2. Acting is about stripping bare.
+R= 392 P= 21.68%
+
+
+					====*393*====+
+1. Aim at heaven and you will get earth thrown in.
+2. Aim at earth and you get neither.
+R= 392 P= 21.68%
+
+
+					====*394*====+
+1. It's a community space.
+2. It's a place of safety, a haven from the world.
+R= 392 P= 21.68%
+
+
+					====*395*====+
+1. Every day, I get closer to God.
+2. Every day, my will to do the right thing gets stronger.
+R= 392 P= 21.68%
+
+
+					====*396*====+
+1. I do my best.
+2. I don't dodge responsibility.
+R= 392 P= 21.68%
+
+
+					====*397*====+
+1. I am going to leave everything on the field.
+2. I am going everywhere, and I am going to listen to everybody.
+R= 392 P= 21.68%
+
+
+					====*398*====+
+1. I am tomorrow, or some future day, what I establish today.
+2. I am today what I established yesterday or some previous day.
+R= 392 P= 21.68%
+
+
+					====*399*====+
+1. I wanted another identity.
+2. I wanted to reinvent myself.
+R= 392 P= 21.68%
+
+
+					====*400*====+
+1. I love working at Louis Vuitton.
+2. I love fashion.
+R= 392 P= 21.68%
+
+
+					====*401*====+
+1. I do Pilates a lot.
+2. I don't do a lot of cardiovascular stuff.
+R= 392 P= 21.68%
+
+
+					====*402*====+
+1. I enjoy doing digital work.
+2. I enjoy sculpting digitally.
+R= 392 P= 21.68%
+
+
+					====*403*====+
+1. That's the entrance to Oneness.
+2. That's the space I entered when I met my guru.
+R= 392 P= 21.68%
+
+
+					====*404*====+
+1. If you don't like something, change it.
+2. If you can't change it, change your attitude.
+R= 392 P= 21.68%
+
+
+					====*405*====+
+1. I know guys.
+2. I know the way they think.
+R= 392 P= 21.68%
+
+
+					====*406*====+
+1. I learn in a different way.
+2. I learn experientially.
+R= 392 P= 21.68%
+
+
+					====*407*====+
+1. I'm a good son, a good father, a good husband - I've been married to the same woman for 30 years.
+2. I'm a good friend.
+R= 392 P= 21.68%
+
+
+					====*408*====+
+1. He would be cool.
+2. He would talk to me.
+R= 392 P= 21.68%
+
+
+					====*409*====+
+1. I'm an actor because I love movies, and always have loved movies.
+2. I'm a film buff.
+R= 392 P= 21.68%
+
+
+					====*410*====+
+1. I'm not confused.
+2. I'm just well mixed.
+R= 392 P= 21.68%
+
+
+					====*411*====+
+1. I'm not really interested in the celebrity themselves.
+2. I'm interested in the perception of the celebrity.
+R= 392 P= 21.68%
+
+
+					====*412*====+
+1. I don't 'become myself' once I'm drunk.
+2. I don't use alcohol to be happy.
+R= 392 P= 21.68%
+
+
+					====*413*====+
+1. I'm pretty instinctive.
+2. I'm a quick learner.
+R= 392 P= 21.68%
+
+
+					====*414*====+
+1. I have kids of my own.
+2. I have dogs.
+R= 392 P= 21.68%
+
+
+					====*415*====+
+1. We are not ridiculous to ourselves.
+2. We are ageless.
+R= 392 P= 21.68%
+
+
+					====*416*====+
+1. For the first six months you wonder how the hell you ever got here.
+2. For the next six months you wonder how the hell the rest of them ever got here.
+R= 392 P= 21.68%
+
+
+					====*417*====+
+1. I started out by believing God for a newer car than the one I was driving.
+2. I started out believing God for a nicer apartment than I had.
+R= 392 P= 21.68%
+
+
+					====*418*====+
+1. I don't know if he's a better actor than me.
+2. I don't think so.
+R= 392 P= 21.68%
+
+
+					====*419*====+
+1. The writers are in charge.
+2. The writers decide what the material is.
+R= 392 P= 21.68%
+
+
+					====*420*====+
+1. It was a sad day.
+2. It was not a celebration environment.
+R= 392 P= 21.68%
+
+
+					====*421*====+
+1. I've always been very shy of doing television.
+2. I've always said 'no.'
+R= 392 P= 21.68%
+
+
+					====*422*====+
+1. I've given it my all.
+2. I've done my best.
+R= 392 P= 21.68%
+
+
+					====*423*====+
+1. If something upsets me, it really upsets me.
+2. If something makes me angry, I get really angry.
+R= 392 P= 21.68%
+
+
+					====*424*====+
+1. Be able to bear an injustice without having to get even.
+2. Be able to carry money without spending it.
+R= 392 P= 21.68%
+
+
+					====*425*====+
+1. Not being beautiful was the true blessing.
+2. Not being beautiful forced me to develop my inner resources.
+R= 392 P= 21.68%
+
+
+					====*426*====+
+1. If you treat people with respect, they will go out of their way to accommodate you.
+2. If you treat them in a patronizing way, they will go out of their way to make your life difficult.
+R= 392 P= 21.68%
+
+
+					====*427*====+
+1. It is not.
+2. It is the opposite of vulgarity.
+R= 392 P= 21.68%
+
+
+					====*428*====+
+1. The first lesson of economics is scarcity: there is never enough of anything to fully satisfy all those who want it.
+2. The first lesson of politics is to disregard the first lesson of economics.
+R= 392 P= 21.68%
+
+
+					====*429*====+
+1. There is some self-interest behind every friendship.
+2. There is no friendship without self-interests.
+R= 392 P= 21.68%
+
+
+					====*430*====+
+1. There's no credit in not doing what you don't want to do.
+2. There's no virtue in not falling, when you're not tempted.
+R= 392 P= 21.68%
+
+
+					====*431*====+
+1. To one who has faith, no explanation is necessary.
+2. To one without faith, no explanation is possible.
+R= 392 P= 21.68%
+
+
+					====*432*====+
+1. You're going to go see the factories you haven't seen before.
+2. You're going to see a site in Texas and one in Canada and stuff like that.
+R= 392 P= 21.68%
+
+
+					====*433*====+
+1. We're giving them reality.
+2. We're like reporters.
+R= 392 P= 21.68%
+
+
+					====*434*====+
+1. It's very easy to be cool and cynical.
+2. It's very difficult to just let yourself go and be in love.
+R= 392 P= 21.68%
+
+
+					====*435*====+
+1. You've got to love the villain if you have to play him.
+2. You've got to find something that you can live with in yourself if you're going to play the villain in a play on stage.
+R= 392 P= 21.68%
+
+
+					====*436*====+
+1. I have been hunted for twenty-one years.
+2. I have literally lived in the saddle.
+3. I have never known a day of perfect peace.
+R= 436 P= 21.25%
+
+
+					====*437*====+
+1. I won't forget the hood.
+2. I won't forget the days of catching a bullet on the way to the mailbox or bricks with death threats that somehow made their way through the window.
+R= 437 P= 20.25%
+
+
+					====*438*====+
+1. As a lobbyist, I was completely against term limits, and I know a lot of people are against term limits, and I was one of the leaders, because why?
+2. As a lobbyist, once you buy a congressional office, you don't have to re-buy that office in six years, right?
+R= 438 P= 19.85%
+
+
+					====*439*====+
+1. I don't think global warming is to do with us, I think it's a natural circle.
+2. I don't think a few Ferraris make that much difference.
+R= 439 P= 19.79%
+
+
+					====*440*====+
+1. If you were a Colombian, you would have your version of an empanada.
+2. If you are an Argentinean, you might find a dough that's baked and has a butter sheen on it.
+R= 439 P= 19.79%
+
+
+					====*441*====+
+1. I've done a lot of theatre at this point, and I've done a lot of TV.
+2. I've done a few independent films, but a lot of them have not seen the light of day.
+R= 439 P= 19.79%
+
+
+					====*442*====+
+1. I like to make something beautiful when I run.
+2. I like to make people stop and say, 'I've never seen anyone run like that before.'
+R= 439 P= 19.79%
+
+
+					====*443*====+
+1. I like to make something beautiful when I run.
+2. I like to make people stop and say, 'I've never seen anyone run like that before.'
+R= 439 P= 19.79%
+
+
+					====*444*====+
+1. It was amazing!
+2. It was a great safe place to just vent.
+R= 444 P= 18.92%
+
+
+					====*445*====+
+1. It's a place I live in.
+2. It's a way of seeing things, of experiencing life.
+R= 445 P= 18.89%
+
+
+					====*446*====+
+1. I don't belong to any country clubs.
+2. I don't have this big circle of friends.
+R= 445 P= 18.89%
+
+
+					====*447*====+
+1. If you are fearful, a horse will back off.
+2. If you are calm and confident, it will come forward.
+R= 445 P= 18.89%
+
+
+					====*448*====+
+1. I have a daughter, Catherine, aged 30.
+2. I have a 9-year-old son, Nathaniel, a 7-year-old son, Ridley, and a 6-year-old daughter, Truma.
+R= 445 P= 18.89%
+
+
+					====*449*====+
+1. I'm a woman, a mother, a daughter, a sister.
+2. I'm a real person operating in the world.
+R= 445 P= 18.89%
+
+
+					====*450*====+
+1. I'm the interpreter.
+2. I'm the one who takes your words and brings them to life.
+R= 445 P= 18.89%
+
+
+					====*451*====+
+1. If you want a good marriage, you must pay attention to that.
+2. If you want to be independent, go ahead.
+R= 445 P= 18.89%
+
+
+					====*452*====+
+1. I want to do a little bit of everything.
+2. I want to play a good, strong female character.
+R= 445 P= 18.89%
+
+
+					====*453*====+
+1. I want to feel passion, I want to feel pain.
+2. I want to weep at the sound of your name.
+R= 445 P= 18.89%
+
+
+					====*454*====+
+1. I want to have a cultural impact.
+2. I want to be an inspiration, to show people what can be done.
+R= 445 P= 18.89%
+
+
+					====*455*====+
+1. I don't think there's love lost.
+2. I don't know if there was a lot of love from the very beginning.
+R= 445 P= 18.89%
+
+
+					====*456*====+
+1. There, I developed a deep appreciation for protecting land and waterways.
+2. There, I learned outdoorsmanship.
+R= 445 P= 18.89%
+
+
+					====*457*====+
+1. The pictures are created by the listener, with a little help from the broadcaster.
+2. The pictures are perfect.
+R= 445 P= 18.89%
+
+
+					====*458*====+
+1. The truth always finds it's way out, even years and years and years later.
+2. The truth always prevails.
+R= 445 P= 18.89%
+
+
+					====*459*====+
+1. What love we've given, we'll have forever.
+2. What love we fail to give, will be lost for all eternity.
+R= 445 P= 18.89%
+
+
+					====*460*====+
+1. I didn't think about being a doctor.
+2. I didn't even think about being a clerk in a store, I'd never seen a black clerk in a clothing store.
+R= 445 P= 18.89%
+
+
+					====*461*====+
+1. A city is a state - of mind, of taste, of opportunity.
+2. A city is a marketplace - where ideas are traded, opinions clash and eternal conflict may produce eternal truths.
+R= 461 P= 18.03%
+
+
+					====*462*====+
+1. I'm not sure I had a political career for the future anyway.
+2. I'm not sure that politics was what I wanted to spend my life doing.
+R= 461 P= 18.03%
+
+
+					====*463*====+
+1. Climate change is real.
+2. Climate change is being substantially increased by humans and the carbon we put into the atmosphere.
+R= 463 P= 16.39%
+
+
+					====*464*====+
+1. It's challenging, but no fun.
+2. It's creepy.
+R= 463 P= 16.39%
+
+
+					====*465*====+
+1. Freedom to speak their mind.
+2. Freedom to build a life.
+R= 463 P= 16.39%
+
+
+					====*466*====+
+1. I challenge you to make your life a masterpiece.
+2. I challenge you to join the ranks of those people who live what they teach, who walk their talk.
+R= 463 P= 16.39%
+
+
+					====*467*====+
+1. It was a painful, horrifying day.
+2. It was a wonderful day from the standpoint of acting, but I was a wreck otherwise.
+R= 463 P= 16.39%
+
+
+					====*468*====+
+1. I know what people laugh at.
+2. I know their vocabulary.
+R= 463 P= 16.39%
+
+
+					====*469*====+
+1. He loved the Old Timers' Day.
+2. He loved it.
+R= 463 P= 16.39%
+
+
+					====*470*====+
+1. I like duos with percussionists.
+2. I like the songs that percussionists sing.
+R= 463 P= 16.39%
+
+
+					====*471*====+
+1. I like geography.
+2. I like to know where places are.
+R= 463 P= 16.39%
+
+
+					====*472*====+
+1. I'm a happy-go-lucky character.
+2. I'm not that miserable.
+R= 463 P= 16.39%
+
+
+					====*473*====+
+1. I'm just the messenger here.
+2. I'm just another representative of my faith, so to speak.
+R= 463 P= 16.39%
+
+
+					====*474*====+
+1. I have three children.
+2. I have a mortgage to pay.
+R= 463 P= 16.39%
+
+
+					====*475*====+
+1. I'm more than an actor.
+2. I'm an icon, an industry.
+R= 463 P= 16.39%
+
+
+					====*476*====+
+1. I'm not a big fan of CGI.
+2. I'm not a fan at all, unless they use it in a way that doesn't call attention to itself.
+R= 463 P= 16.39%
+
+
+					====*477*====+
+1. I enjoy it.
+2. I enjoy big narrative, and I enjoy big feelings.
+R= 463 P= 16.39%
+
+
+					====*478*====+
+1. It needs diversity.
+2. It needs to be able to respect people.
+R= 463 P= 16.39%
+
+
+					====*479*====+
+1. I think Tilda Swinton is terribly interesting.
+2. I think she's fascinating.
+R= 463 P= 16.39%
+
+
+					====*480*====+
+1. I want to talk to all the people, the fans.
+2. I want to let them know how much I appreciate all their support.
+R= 463 P= 16.39%
+
+
+					====*481*====+
+1. I was never much of a singer.
+2. I was terrible.
+R= 463 P= 16.39%
+
+
+					====*482*====+
+1. I was the bad kid in school.
+2. I was usually in trouble.
+R= 463 P= 16.39%
+
+
+					====*483*====+
+1. He's shifted the planet.
+2. He's got the whole world dancing.
+R= 463 P= 16.39%
+
+
+					====*484*====+
+1. Some people believe God is involved in every little decision we make.
+2. Some people believe you're given the free will to make the decisions.
+R= 463 P= 16.39%
+
+
+					====*485*====+
+1. It's a prequel.
+2. It's not like number three.
+R= 463 P= 16.39%
+
+
+					====*486*====+
+1. You have to not be injured.
+2. You have to have a really strong mind to deal with the dance world.
+R= 463 P= 16.39%
+
+
+					====*487*====+
+1. There is no such thing as talent.
+2. There is pressure.
+R= 463 P= 16.39%
+
+
+					====*488*====+
+1. It's the most essential ingredient in effective communication.
+2. It's the foundational principle that holds all relationships.
+R= 463 P= 16.39%
+
+
+					====*489*====+
+1. I mean, really.
+2. I mean, not that the 'Girlfriend in a Coma' is, like, really funny.
+R= 463 P= 16.39%
+
+
+					====*490*====+
+1. We are selfish when we are exclusively or predominantly concerned with the good for ourselves.
+2. We are altruistic when we are exclusively or predominantly concerned with the good of others.
+R= 463 P= 16.39%
+
+
+					====*491*====+
+1. We're not perfect.
+2. We're a work in progress.
+R= 463 P= 16.39%
+
+
+					====*492*====+
+1. When you squeeze an orange, orange juice comes out - because that's what's inside.
+2. When you are squeezed, what comes out is what is inside.
+R= 463 P= 16.39%
+
+
+					====*493*====+
+1. We'll prevail.
+2. We'll bet on these songs.'
+R= 463 P= 16.39%
+
+
+					====*494*====+
+1. You will never be happy if you continue to search for what happiness consists of.
+2. You will never live if you are looking for the meaning of life.
+R= 463 P= 16.39%
+
+
+					====*495*====+
+1. I'd like the reader to decide if he is willing to pay minute sums for content.
+2. I'd like the economics of web to be controlled between authors and readers, not advertiser.
+R= 495 P= 14.87%
+
+
+					====*496*====+
+1. It is easy to romanticize poverty, to see poor people as inherently lacking agency and will.
+2. It is easy to strip them of human dignity, to reduce them to objects of pity.
+R= 495 P= 14.87%
+
+
+					====*497*====+
+1. I'm a terrible singer.
+2. I'm not about to launch my album!
+R= 497 P= 14.18%
+
+
+					====*498*====+
+1. Enthusiasm is the yeast that makes your hopes shine to the stars.
+2. Enthusiasm is the sparkle in your eyes, the swing in your gait.
+R= 498 P= 14.16%
+
+
+					====*499*====+
+1. I don't want to see these sci-fi movies, and I don't want to do one of those.
+2. I don't understand it.
+R= 498 P= 14.16%
+
+
+					====*500*====+
+1. I think I'm a very religious person.
+2. I think I believe in God as much as any man does.
+R= 498 P= 14.16%
+
+
+					====*501*====+
+1. It's not subtle or restrained.
+2. It's not any of the things you like to think apply to your acting.
+R= 498 P= 14.16%
+
+
+					====*502*====+
+1. I've always been a tomboy.
+2. I've always liked to wear red, black, and white, and mostly pants.
+R= 498 P= 14.16%
+
+
+					====*503*====+
+1. My favourite all-time work of fiction: Lord of the Rings.
+2. My favourite all-time nonfiction book: Guns, Germs, and Steel.
+R= 498 P= 14.16%
+
+
+					====*504*====+
+1. The general who wins the battle makes many calculations in his temple before the battle is fought.
+2. The general who loses makes but few calculations beforehand.
+R= 498 P= 14.16%
+
+
+					====*505*====+
+1. There's a power in women being women.
+2. There's a role for men, but we don't have to be men, because we're women.
+R= 498 P= 14.16%
+
+
+					====*506*====+
+1. I believe in God, but not as one thing, not as an old man in the sky.
+2. I believe that what people call God is something in all of us.
+3. I believe that what Jesus and Mohammed and Buddha and all the rest said was right.
+R= 506 P= 13.85%
+
+
+					====*507*====+
+1. It is a longing of the soul.
+2. It is daily admission of one's weakness.
+3. It is better in prayer to have a heart without words than words without a heart.
+R= 506 P= 13.85%
+
+
+					====*508*====+
+1. If you are a mother, does it mean you have to be a mother with a husband?
+2. If you don't have a husband, what is the role that the man plays?
+R= 508 P= 12.22%
+
+
+					====*509*====+
+1. Being a good actor isn't easy.
+2. Being a man is even harder.
+R= 509 P= 12.19%
+
+
+					====*510*====+
+1. We should let young people move forward, whether we agree with them or not.
+2. We should let new things happen.
+R= 509 P= 12.19%
+
+
+					====*511*====+
+1. But then you turn out not to be.
+2. But then again, you could be.
+R= 509 P= 12.19%
+
+
+					====*512*====+
+1. Everything we hear is an opinion, not a fact.
+2. Everything we see is a perspective, not the truth.
+R= 509 P= 12.19%
+
+
+					====*513*====+
+1. Faith is not trying to believe something regardless of the evidence.
+2. Faith is daring to do something regardless of the consequences.
+R= 509 P= 12.19%
+
+
+					====*514*====+
+1. He who risks and fails can be forgiven.
+2. He who never risks and never fails is a failure in his whole being.
+R= 509 P= 12.19%
+
+
+					====*515*====+
+1. I don't use African-American, because I'm American, I'm black and I'm conservative.
+2. I don't like people trying to label me.
+R= 509 P= 12.19%
+
+
+					====*516*====+
+1. I believe that it is better to tell the truth than a lie.
+2. I believe it is better to be free than to be a slave.
+R= 509 P= 12.19%
+
+
+					====*517*====+
+1. I don't really feel comfortable unless I'm slightly uncomfortable.
+2. I don't want to play myself all the time.
+R= 509 P= 12.19%
+
+
+					====*518*====+
+1. I had to inspect all fighter units in Russia, Africa, Sicily, France, and Norway.
+2. I had to be everywhere.
+R= 509 P= 12.19%
+
+
+					====*519*====+
+1. I have looked into your eyes with my eyes.
+2. I have put my heart near your heart.
+R= 509 P= 12.19%
+
+
+					====*520*====+
+1. I have Social Disease.
+2. I have to go out every night.
+R= 509 P= 12.19%
+
+
+					====*521*====+
+1. You put pressure on interest rates.
+2. You put at risk your economy.
+R= 509 P= 12.19%
+
+
+					====*522*====+
+1. I'm made in the Dominican.
+2. I'm from baseball country.
+R= 509 P= 12.19%
+
+
+					====*523*====+
+1. I'm no longer just a candidate.
+2. I'm the President.
+R= 509 P= 12.19%
+
+
+					====*524*====+
+1. I'm not a genius.
+2. I'm just a tremendous bundle of experience.
+R= 509 P= 12.19%
+
+
+					====*525*====+
+1. I'm not an aviation historian, I'm not an Air Force aficionado, and I'm definitely not a ufologist.
+2. I'm not someone who studies UFOs.
+R= 509 P= 12.19%
+
+
+					====*526*====+
+1. I'm not going to fight in the physical with physical weapons, because it's not a physical fight.
+2. I'm going to fight with spiritual weapons, cause it's a spiritual fight.
+R= 509 P= 12.19%
+
+
+					====*527*====+
+1. I'm not the last of the old bosses.
+2. I'm the first of the new leaders.
+R= 509 P= 12.19%
+
+
+					====*528*====+
+1. I'm very lucky.
+2. I'm very fortunate that my books have never gone out of print - none of them.
+R= 509 P= 12.19%
+
+
+					====*529*====+
+1. Kids love the Beatles, too.
+2. Kids love Tom T. Hall.
+R= 509 P= 12.19%
+
+
+					====*530*====+
+1. It's just very homey in Ireland.
+2. It's very comforting and comfortable.
+R= 509 P= 12.19%
+
+
+					====*531*====+
+1. It's tough for those celebrity couples.
+2. It's really hard.
+R= 509 P= 12.19%
+
+
+					====*532*====+
+1. I've never been standing at the top of the tree with tons of money thrown at me.
+2. I've never really had a profile.
+R= 509 P= 12.19%
+
+
+					====*533*====+
+1. I've never been one to look up the ladder.
+2. I've always looked down the ladder.
+R= 509 P= 12.19%
+
+
+					====*534*====+
+1. I've played with IVs before, during and after games.
+2. I've played with a broken hand, a sprained ankle, a torn shoulder, a fractured tooth, a severed lip, and a knee the size of a softball.
+R= 509 P= 12.19%
+
+
+					====*535*====+
+1. It's all good.
+2. It's just love, you know.
+R= 509 P= 12.19%
+
+
+					====*536*====+
+1. Like a kid in the naughty corner.
+2. Like a Victorian mute.
+R= 509 P= 12.19%
+
+
+					====*537*====+
+1. No one saves us but ourselves.
+2. No one can and no one may.
+R= 509 P= 12.19%
+
+
+					====*538*====+
+1. You will make it.
+2. You will give joy to the world.
+R= 509 P= 12.19%
+
+
+					====*539*====+
+1. Every life is full of heartaches.
+2. Every life, frankly, is unspeakably sad.
+R= 509 P= 12.19%
+
+
+					====*540*====+
+1. I'm not interested in when people become successful.
+2. I'm interested in what made them successful.
+R= 509 P= 12.19%
+
+
+					====*541*====+
+1. That's why I love them so much.
+2. That's what I see.
+R= 509 P= 12.19%
+
+
+					====*542*====+
+1. It's reality rap.
+2. It's about what's really going on.
+R= 509 P= 12.19%
+
+
+					====*543*====+
+1. It's just very time-consuming.
+2. It's a way of life.
+R= 509 P= 12.19%
+
+
+					====*544*====+
+1. It's so different when you change your hair color, you're treated so differently.
+2. It's a very funny experience.
+3. It's fun - I love changing up my hair.
+R= 544 P= 11.92%
+
+
+					====*545*====+
+1. The advantage of the consumer businesses is they tend to be much broader-based, much larger number of customers, that tend to over time be a lot more predictable.
+2. The advantage of the enterprise companies is they are not as subject to consumer trend, fad, behavior.
+R= 545 P= 11.01%
+
+
+					====*546*====+
+1. I have a sweet tooth!
+2. I have an unlimited supply on hand at home, but the candy packs in my purse are not for sharing.
+R= 546 P= 10.47%
+
+
+					====*547*====+
+1. It's only rock and roll, my god!
+2. It's not rocket science.
+R= 546 P= 10.47%
+
+
+					====*548*====+
+1. I don't know if I have a voice of my own.
+2. I don't see me being an important person with something to say.
+R= 548 P= 10.46%
+
+
+					====*549*====+
+1. I don't think you should meet the people you most admire.
+2. I don't want reality to interfere with my image.
+R= 548 P= 10.46%
+
+
+					====*550*====+
+1. I grew up on my dad's sets, but I was never star-struck or desperate to be famous.
+2. I grew up being a worker.
+R= 548 P= 10.46%
+
+
+					====*551*====+
+1. I'm the type who'd be happy not going anywhere as long as I was sure I knew exactly what was happening at the places I wasn't going to.
+2. I'm the type who'd like to sit home and watch every party that I'm invited to on a monitor in my bedroom.
+R= 548 P= 10.46%
+
+
+					====*552*====+
+1. I wanted to be an actor because I wanted to be onstage.
+2. I wanted to do musical theater, and from that I realized I was interested in plays.
+R= 548 P= 10.46%
+
+
+					====*553*====+
+1. There are no signposts in the sky to show a man has passed that way before.
+2. There are no channels marked.
+R= 548 P= 10.46%
+
+
+					====*554*====+
+1. There's so much going on in the world.
+2. There's so much information being thrown at us - so many things are being sold to us, and we're being told how we should appear and how to be more successful, blah, blah, blah.
+R= 554 P= 9.93%
+
+
+					====*555*====+
+1. They're never perfect.
+2. They're flawed people put in extraordinary circumstances.
+R= 555 P= 8.95%
+
+
+					====*556*====+
+1. There are some shows that are exceptions.
+2. There are producers that want really special things.
+R= 555 P= 8.95%
+
+
+					====*557*====+
+1. That's the area I excel in.
+2. That's where my passion is.
+R= 555 P= 8.95%
+
+
+					====*558*====+
+1. I was very lucky.
+2. I was more involved in intelligence and counter-intelligence.
+R= 555 P= 8.95%
+
+
+					====*559*====+
+1. I don't act in the way other actresses act, in terms of building or creating a character.
+2. I don't transform myself into the role, I invest myself in the role.
+R= 555 P= 8.95%
+
+
+					====*560*====+
+1. I had a national and international reputation.
+2. I had written the history and articles.
+R= 555 P= 8.95%
+
+
+					====*561*====+
+1. I have never experienced another human being.
+2. I have experienced my impressions of them.
+R= 555 P= 8.95%
+
+
+					====*562*====+
+1. I love ensemble work.
+2. I love making pieces and building things together.
+R= 555 P= 8.95%
+
+
+					====*563*====+
+1. I love hats and winter is the perfect time for them.
+2. I love winter time fashion.
+R= 555 P= 8.95%
+
+
+					====*564*====+
+1. I love Winston Churchill.
+2. I love the wisdom he had, the sagacity.
+R= 555 P= 8.95%
+
+
+					====*565*====+
+1. I'm a complete human being.
+2. I'm very emotional and loving.
+R= 555 P= 8.95%
+
+
+					====*566*====+
+1. I'm a perfectionist.
+2. I'm not going to cheat the people.
+R= 555 P= 8.95%
+
+
+					====*567*====+
+1. I'm a private person.
+2. I'm shy about people knowing things.
+R= 555 P= 8.95%
+
+
+					====*568*====+
+1. I'm not gonna be a slave.
+2. I'm a rock n' roller.
+R= 555 P= 8.95%
+
+
+					====*569*====+
+1. I'm working out every day.
+2. I'm in very good shape.
+R= 555 P= 8.95%
+
+
+					====*570*====+
+1. I ran away from home.
+2. I ran away from St. Louis, and then I ran away from the United States of America, because of that terror of discrimination, that horrible beast which paralyzes one's very soul and body.
+R= 555 P= 8.95%
+
+
+					====*571*====+
+1. I started a recording studio.
+2. I started producing people and doing remixes.
+R= 555 P= 8.95%
+
+
+					====*572*====+
+1. It takes great courage to be vulnerable.
+2. It takes enormous strength to be a real woman.
+R= 555 P= 8.95%
+
+
+					====*573*====+
+1. It was a great thing to be a human being.
+2. It was something tremendous.
+R= 555 P= 8.95%
+
+
+					====*574*====+
+1. I wanted to know the name of every stone and flower and insect and bird and beast.
+2. I wanted to know where it got its color, where it got its life - but there was no one to tell me.
+R= 555 P= 8.95%
+
+
+					====*575*====+
+1. I wasn't interested in novelty.
+2. I was looking for good drama.
+R= 555 P= 8.95%
+
+
+					====*576*====+
+1. I was the worst extra, I was 'that' guy.
+2. I was the guy on the phone trying to get the Oscar for best extra - for best background performance.
+R= 555 P= 8.95%
+
+
+					====*577*====+
+1. It's good for your legs and your feet.
+2. It's also very good for the ground.
+R= 555 P= 8.95%
+
+
+					====*578*====+
+1. People who know me, love me.
+2. People who don't know me love me too... or they hate me.
+R= 555 P= 8.95%
+
+
+					====*579*====+
+1. Success is the space one occupies in the newspaper.
+2. Success is one day's insolence.
+R= 555 P= 8.95%
+
+
+					====*580*====+
+1. They didn't do it for individual glory.
+2. They did it because they loved one another.
+R= 555 P= 8.95%
+
+
+					====*581*====+
+1. That's real glory.
+2. That's the essence of it.
+R= 555 P= 8.95%
+
+
+					====*582*====+
+1. We've all kept secrets.
+2. We've had secrets kept from us, and we know how that feels.
+R= 555 P= 8.95%
+
+
+					====*583*====+
+1. It's a journey towards simplicity, towards quietness, towards a kind of joy that is not in time.
+2. It's a journey that has taken us from primary identification with our body and our psyche, on to an identification with God, and ultimately beyond identification.
+R= 555 P= 8.95%
+
+
+					====*584*====+
+1. When you are courting a nice girl an hour seems like a second.
+2. When you sit on a red-hot cinder a second seems like an hour.
+R= 555 P= 8.95%
+
+
+					====*585*====+
+1. It is a good question.
+2. It is like a crime that has not been solved.
+R= 555 P= 8.95%
+
+
+					====*586*====+
+1. You are warm enough, but you shiver.
+2. You are fed, yet hunger gnaws you.
+R= 555 P= 8.95%
+
+
+					====*587*====+
+1. I'm addressing it.
+2. I'm doing the work that I have to do.
+R= 555 P= 8.95%
+
+
+					====*588*====+
+1. You don't try to forget the mistakes, but you don't dwell on it.
+2. You don't let it have any of your energy, or any of your time, or any of your space.
+R= 555 P= 8.95%
+
+
+					====*589*====+
+1. You can never reach the promised land.
+2. You can march towards it.
+R= 555 P= 8.95%
+
+
+					====*590*====+
+1. Your work isn't just to learn and say the lines.
+2. Your work is to figure out what the chatter in your brain is, that's going on under the lines.
+R= 555 P= 8.95%
+
+
+					====*591*====+
+1. I found out what mine were when I was twelve.
+2. I found out that there weren't too many limitations, if I did it my way.
+R= 555 P= 8.95%
+
+
+					====*592*====+
+1. I have over a dozen aunts and uncles in Pakistan, dozens of cousins.
+2. I have many close friends.
+3. I have received so much love in Lahore that the city always pulls me.
+R= 592 P= 8.74%
+
+
+					====*593*====+
+1. When power leads man toward arrogance, poetry reminds him of his limitations.
+2. When power narrows the area of man's concern, poetry reminds him of the richness and diversity of existence.
+3. When power corrupts, poetry cleanses.
+R= 592 P= 8.74%
+
+
+					====*594*====+
+1. I think it's awful that the state of Oklahoma a couple of years ago passed this law to give the same tuition to illegals as they do to people who are residents of Oklahoma.
+2. I think it's wrong.
+R= 594 P= 8.05%
+
+
+					====*595*====+
+1. We don't isolate the family.
+2. We don't make rides that say, 'Hey mom, dad, you go sit on the bench.'
+R= 595 P= 7.64%
+
+
+					====*596*====+
+1. For bipolar in adults, I think there's pretty good agreement about what this looks like.
+2. For bipolar in children, there is some considerable debate about where are the boundaries.
+R= 595 P= 7.64%
+
+
+					====*597*====+
+1. I'm not a book-club style reader.
+2. I'm not looking for life lessons or wanting people to think I'm smart because I'm reading a certain book.
+R= 595 P= 7.64%
+
+
+					====*598*====+
+1. When you are joyous, look deep into your heart and you shall find it is only that which has given you sorrow that is giving you joy.
+2. When you are sorrowful look again in your heart, and you shall see that in truth you are weeping for that which has been your delight.
+R= 595 P= 7.64%
+
+
+					====*599*====+
+1. It is an expression of humility.
+2. It is a foundation for the development of such virtues as prayer, faith, courage, contentment, happiness, love, and well-being.
+R= 599 P= 6.50%
+
+
+					====*600*====+
+1. To believe all men honest would be folly.
+2. To believe none so is something worse.
+R= 599 P= 6.50%
+
+
+					====*601*====+
+1. This is divine life.
+2. This is the direct way to Moksha or salvation.
+R= 599 P= 6.50%
+
+
+					====*602*====+
+1. Art can change the way we see the world.
+2. Art can create an analogy.
+R= 599 P= 6.50%
+
+
+					====*603*====+
+1. It's like anything else.
+2. It's a muscle you have to exercise.
+R= 599 P= 6.50%
+
+
+					====*604*====+
+1. Comedy is not funny.
+2. Comedy is hard work and timing and lots and lots of rehearsals.
+R= 599 P= 6.50%
+
+
+					====*605*====+
+1. Design is not just what it looks like and feels like.
+2. Design is how it works.
+R= 599 P= 6.50%
+
+
+					====*606*====+
+1. Don't change on me.
+2. Don't extort me unless you intend to do it forever.
+R= 599 P= 6.50%
+
+
+					====*607*====+
+1. Getting ready to wrestle is like getting ready for a car crash.
+2. Getting ready to work with Brock Lesnar is like knowing you're going to get hit by a bus and the bus is going to back over you.
+R= 599 P= 6.50%
+
+
+					====*608*====+
+1. I am not a perfect servant.
+2. I am a public servant doing my best against the odds.
+R= 599 P= 6.50%
+
+
+					====*609*====+
+1. I am not unhappy that my contribution was not recognized.
+2. I am sure it helped my career.
+R= 599 P= 6.50%
+
+
+					====*610*====+
+1. I've just got to believe that we're going to be all right.
+2. I've got to just play basketball.
+R= 599 P= 6.50%
+
+
+					====*611*====+
+1. I enjoy touring.
+2. I enjoy recording the music, I enjoy dreaming it and I enjoy performing it.
+R= 599 P= 6.50%
+
+
+					====*612*====+
+1. We'd never have a friendship.
+2. We'd never go into business, because we'd be cynical.
+R= 599 P= 6.50%
+
+
+					====*613*====+
+1. If you want something, have it.
+2. If you feel like it's forbidden, you'll want it even more.
+R= 599 P= 6.50%
+
+
+					====*614*====+
+1. I get scared when I think I'm going to miss my flight.
+2. I get obsessed when I actually miss a flight.
+R= 599 P= 6.50%
+
+
+					====*615*====+
+1. I like a lot of different kinds of music.
+2. I like strong projects, big music.
+R= 599 P= 6.50%
+
+
+					====*616*====+
+1. I love Sell Out, I think it's great.
+2. I love the jingles.
+R= 599 P= 6.50%
+
+
+					====*617*====+
+1. I'm a producer for fun.
+2. I'm not a professional schooled musician or anything.
+R= 599 P= 6.50%
+
+
+					====*618*====+
+1. I'm a storyteller, not a prophet.
+2. I'm just interested in a good story.
+R= 599 P= 6.50%
+
+
+					====*619*====+
+1. We've raised 23 foster children.
+2. We've applied ourselves to education reform.
+R= 599 P= 6.50%
+
+
+					====*620*====+
+1. I'm not trying to steer people in a direction.
+2. I'm just trying to move them.
+R= 599 P= 6.50%
+
+
+					====*621*====+
+1. I'm very rich - in friends.
+2. I'm too nice a fellow.
+R= 599 P= 6.50%
+
+
+					====*622*====+
+1. There's a thousand kids outside, you know who to push and who not to push.
+2. There's a sixth sense you develop just because it's New York.
+R= 599 P= 6.50%
+
+
+					====*623*====+
+1. I saw why people died and how they died.
+2. I saw gunshot wounds and liver failure.
+R= 599 P= 6.50%
+
+
+					====*624*====+
+1. I was ten years old.
+2. I was discovered singing in a school play.
+R= 599 P= 6.50%
+
+
+					====*625*====+
+1. It kind of allowed me to have this whole new confidence and this whole new swagger and this whole new sense of self.
+2. It kind of brought out the inner rock star in me.
+R= 599 P= 6.50%
+
+
+					====*626*====+
+1. It is not a life at all.
+2. It is a reticence, in three volumes.
+R= 599 P= 6.50%
+
+
+					====*627*====+
+1. I told my wife the truth.
+2. I told her I was seeing a psychiatrist.
+R= 599 P= 6.50%
+
+
+					====*628*====+
+1. I travel not to go anywhere, but to go.
+2. I travel for travel's sake.
+R= 599 P= 6.50%
+
+
+					====*629*====+
+1. It's about businesses nervous about taking on school leavers because of a mass of red tape.
+2. It's about health and safety regulations and green fines.
+R= 599 P= 6.50%
+
+
+					====*630*====+
+1. It's a funny habit to write encyclopedia entries.
+2. It's not a mass taste.
+R= 599 P= 6.50%
+
+
+					====*631*====+
+1. It's all about people.
+2. It's about networking and being nice to people and not burning any bridges.
+R= 599 P= 6.50%
+
+
+					====*632*====+
+1. I was never in a mental institution for a long time.
+2. I was in psych wards.
+R= 599 P= 6.50%
+
+
+					====*633*====+
+1. I wasn't satisfied just to earn a good living.
+2. I was looking to make a statement.
+R= 599 P= 6.50%
+
+
+					====*634*====+
+1. If you want to love somebody, stand there and do it.
+2. If you don't, don't.
+R= 599 P= 6.50%
+
+
+					====*635*====+
+1. I perform an art not with a paint brush or a camera.
+2. I perform with bodily movement.
+R= 599 P= 6.50%
+
+
+					====*636*====+
+1. Night, the beloved.
+2. Night, when words fade and things come alive.
+R= 599 P= 6.50%
+
+
+					====*637*====+
+1. The more credit you give away, the more will come back to you.
+2. The more you help others, the more they will want to help you.
+R= 599 P= 6.50%
+
+
+					====*638*====+
+1. There are grander and more sublime landscapes - to me.
+2. There are more compelling cultures.
+R= 599 P= 6.50%
+
+
+					====*639*====+
+1. There's no present.
+2. There's only the immediate future and the recent past.
+R= 599 P= 6.50%
+
+
+					====*640*====+
+1. We have two dogs, Mabel and Wolf, and three cats at home, Charlie, George and Chairman.
+2. We have two cats on our farm, Tom and Little Sister, two horses, and two mini horses, Hannah and Tricky.
+R= 599 P= 6.50%
+
+
+					====*641*====+
+1. We must break up the eurozone.
+2. We must set those Mediterranean countries free.
+R= 599 P= 6.50%
+
+
+					====*642*====+
+1. I knew he was frail, but I always thought he was going to last longer.
+2. I knew him as being really funny, but at the same time, he had a dark side.
+R= 599 P= 6.50%
+
+
+					====*643*====+
+1. You don't argue with a four-year old about why he shouldn't eat candy for dinner.
+2. You don't punch a mentally handicapped guy even if he punches you first.
+R= 599 P= 6.50%
+
+
+					====*644*====+
+1. You must never be satisfied with losing.
+2. You must get angry, terribly angry, about losing.
+R= 599 P= 6.50%
+
+
+					====*645*====+
+1. I know that I am an excellent live performer.
+2. I know that I have spent my life paying attention to my art form, developing my art form, worrying about my show and what it is I'm bringing to people, making sure that I give them a fine trade.
+R= 645 P= 5.84%
+
+
+					====*646*====+
+1. Good battle is objective and honest - never vicious or cruel.
+2. Good battle is healthy and constructive, and brings to a marriage the principles of equal partnership.
+R= 646 P= 5.53%
+
+
+					====*647*====+
+1. I want to walk into a room, be it a hospital for the dying or a hospital for the sick children, and feel that I am needed.
+2. I want to do, not just to be.
+R= 646 P= 5.53%
+
+
+					====*648*====+
+1. We ought to be beating our chests every day.
+2. We ought to look in the mirror, stick out our chests, suck in our bellies, and say, 'Damn, we're Americans,' and smile.
+R= 646 P= 5.53%
+
+
+					====*649*====+
+1. I love a good cliffhanger.
+2. I love when big events happen in shows.
+3. I love shows that aren't afraid to take risks and to really do what's best for the story line and realistic for the story line.
+R= 649 P= 5.40%
+
+
+					====*650*====+
+1. No one knew what Rodney King had done beforehand to be stopped.
+2. No one realized that he was a parolee and that he was violating his parole.
+3. No one knew any of those things.
+R= 649 P= 5.40%
+
+
+					====*651*====+
+1. A successful man is one who makes more money than his wife can spend.
+2. A successful woman is one who can find such a man.
+R= 651 P= 4.69%
+
+
+					====*652*====+
+1. Comedy is surprise.
+2. Comedy is not something that you can, necessarily, do twice.
+R= 651 P= 4.69%
+
+
+					====*653*====+
+1. For I do not seek to understand in order to believe, but I believe in order to understand.
+2. For I believe this: unless I believe, I will not understand.
+R= 651 P= 4.69%
+
+
+					====*654*====+
+1. They're really not.
+2. They're just regular people who live in small towns.
+R= 651 P= 4.69%
+
+
+					====*655*====+
+1. You're not creative from happiness, you're just happy.
+2. You're creative when you're miserable and depressed.
+R= 651 P= 4.69%
+
+
+					====*656*====+
+1. I am terrified of flying.
+2. I am a wreck right before I get on an airplane.
+R= 651 P= 4.69%
+
+
+					====*657*====+
+1. I was just a blank sheet of paper.
+2. I was totally ignorant of all that stuff.
+R= 651 P= 4.69%
+
+
+					====*658*====+
+1. If you're not smiling all the time or always happy - I don't think it matters.
+2. If you're having bad day, show you're having a bad day.
+R= 651 P= 4.69%
+
+
+					====*659*====+
+1. I'm also just the type to call.
+2. I'm not good on text.
+R= 651 P= 4.69%
+
+
+					====*660*====+
+1. It has nothing to do with fundamental freedom.
+2. It has to do with protection of the average citizen against abuses.
+R= 651 P= 4.69%
+
+
+					====*661*====+
+1. If you're a baker, making bread, you're a baker.
+2. If you make the best bread in the world, you're not an artist, but if you bake the bread in the gallery, you're an artist.
+R= 651 P= 4.69%
+
+
+					====*662*====+
+1. It's not just photography I'm talking about.
+2. It's about whatever dream you want it to be.
+R= 651 P= 4.69%
+
+
+					====*663*====+
+1. I'm just like you.
+2. I'm a human being and I have my problems.
+R= 651 P= 4.69%
+
+
+					====*664*====+
+1. I'm developing a record company.
+2. I'm learning how to supervise music on a film.
+R= 651 P= 4.69%
+
+
+					====*665*====+
+1. I'm Howard Stern with a vocabulary.
+2. I'm the man he wishes he could be.
+R= 651 P= 4.69%
+
+
+					====*666*====+
+1. I'm not a very good lover.
+2. I'm so nervous about my sexuality.
+R= 651 P= 4.69%
+
+
+					====*667*====+
+1. I'm trying to build a brand.
+2. I'm not just doing one-off projects.
+R= 651 P= 4.69%
+
+
+					====*668*====+
+1. It's like leaking blood from a stone.
+2. It's brutally difficult but worth it.
+R= 651 P= 4.69%
+
+
+					====*669*====+
+1. I've done that since day one.
+2. I've always taken other comics with me.
+R= 651 P= 4.69%
+
+
+					====*670*====+
+1. She's got a good head on her shoulders.
+2. She's surrounded with wonderful people.
+R= 651 P= 4.69%
+
+
+					====*671*====+
+1. It's called a pen.
+2. It's like a printer, hooked straight to my brain.
+R= 651 P= 4.69%
+
+
+					====*672*====+
+1. It's too late for that - trying to second guess it.
+2. It's over.
+R= 651 P= 4.69%
+
+
+					====*673*====+
+1. I've gotten to work with some great people.
+2. I've been really lucky.
+R= 651 P= 4.69%
+
+
+					====*674*====+
+1. I wanted to be like Vivien Leigh in 'Gone With the Wind.'
+2. I wanted to have black hair, green eyes and break hearts.
+R= 651 P= 4.69%
+
+
+					====*675*====+
+1. There is method acting.
+2. There is a lot of attention to Shakespeare and verse.
+R= 651 P= 4.69%
+
+
+					====*676*====+
+1. One thing at least is certain, light has weight.
+2. One thing is certain and the rest debate.
+R= 651 P= 4.69%
+
+
+					====*677*====+
+1. Give them the same law.
+2. Give them an even chance to live and grow.
+R= 651 P= 4.69%
+
+
+					====*678*====+
+1. We can change our lives.
+2. We can do, have, and be exactly what we wish.
+R= 651 P= 4.69%
+
+
+					====*679*====+
+1. We can make a commitment to promote vegetables and fruits and whole grains on every part of every menu.
+2. We can make portion sizes smaller and emphasize quality over quantity.
+R= 651 P= 4.69%
+
+
+					====*680*====+
+1. When you vote, vote for those who are not warmongers, and vote for those who respect human rights.
+2. When you see a president who doesn't respect human rights, don't vote for that person.
+R= 651 P= 4.69%
+
+
+					====*681*====+
+1. If you're just a political person, you're going to burn out.
+2. If you, as an artist, are just focused inward, you're going to eventually be irrelevant.
+R= 651 P= 4.69%
+
+
+					====*682*====+
+1. You have to have a big vision and take very small steps to get there.
+2. You have to be humble as you execute but visionary and gigantic in terms of your aspiration.
+R= 651 P= 4.69%
+
+
+					====*683*====+
+1. You shouldn't be greedy.
+2. You should feel good about yourself and not be greedy of what other people have.
+R= 651 P= 4.69%
+
+
+					====*684*====+
+1. I'm not one of those complicated, mixed-up cats.
+2. I'm not looking for the secret to life... I just go on from day to day, taking what comes.
+R= 684 P= 3.98%
+
+
+					====*685*====+
+1. It is the accuracy and detail inherent in crafted goods that endows them with lasting value.
+2. It is the time and attention paid by the carpenter, the seamstress and the tailor that makes this detail possible.
+R= 684 P= 3.98%
+
+
+					====*686*====+
+1. It's about these people who are inextricably together for whatever reasons, and they happen to be in the spy world.
+2. It's about relationships, and the bottom line is, that's why you care.
+R= 684 P= 3.98%
+
+
+					====*687*====+
+1. It's an ongoing problem.
+2. It's not like we can fix it, and it's over.
+R= 687 P= 3.37%
+
+
+					====*688*====+
+1. We share 98.8 percent of the genes.
+2. We share more genes with them than zebras do with horses.
+R= 687 P= 3.37%
+
+
+					====*689*====+
+1. When you go to work, work your ass off.
+2. When you hate someone, hate them until it hurts.
+R= 687 P= 3.37%
+
+
+					====*690*====+
+1. That's important.
+2. That's why the world cried when he passed because they understood him.
+R= 687 P= 3.37%
+
+
+					====*691*====+
+1. They use the word wrongfully.
+2. They use it to mean a part instead of a whole.
+R= 687 P= 3.37%
+
+
+					====*692*====+
+1. I believe in the brotherhood of man, all men, but I don't believe in brotherhood with anybody who doesn't want brotherhood with me.
+2. I believe in treating people right, but I'm not going to waste my time trying to treat somebody right who doesn't know how to return the treatment.
+R= 687 P= 3.37%
+
+
+					====*693*====+
+1. It's part of the hand you're dealt.
+2. It's a challenge-and I'm not atypical.
+R= 687 P= 3.37%
+
+
+					====*694*====+
+1. I do not consider it an insult, but rather a compliment to be called an agnostic.
+2. I do not pretend to know where many ignorant men are sure - that is all that agnosticism means.
+R= 687 P= 3.37%
+
+
+					====*695*====+
+1. I'm of European stock, brought up in Australia.
+2. I'm a passionate guy.
+R= 687 P= 3.37%
+
+
+					====*696*====+
+1. I like going out and buying some crazy stuff.
+2. I like stuff that's new, innovative and weird.
+R= 687 P= 3.37%
+
+
+					====*697*====+
+1. I'm a real believer in dressing tone-on-tone.
+2. I'm not saying you need to dress black.
+R= 687 P= 3.37%
+
+
+					====*698*====+
+1. He who died in place of us is the one object of my quest.
+2. He who rose for our sakes is my one desire.
+R= 687 P= 3.37%
+
+
+					====*699*====+
+1. I think there's something about wanting to stand in the spotlight.
+2. I think the ball is a spotlight, for example, and I think they want to stand in that.
+R= 687 P= 3.37%
+
+
+					====*700*====+
+1. You are reading scripts, you are traveling the world, you are hassling your agent.
+2. You are trying to find that script.
+R= 687 P= 3.37%
+
+
+					====*701*====+
+1. If it ends, I'll move on to doing something else.
+2. If it lasts, great.
+R= 687 P= 3.37%
+
+
+					====*702*====+
+1. So I wanted to do it as a series of recurring TV movies, and they said no.
+2. So I agreed to do it as a series.
+R= 687 P= 3.37%
+
+
+					====*703*====+
+1. I was in a group called Wild Orchid and it just wasn't working.
+2. I wasn't being myself.
+R= 687 P= 3.37%
+
+
+					====*704*====+
+1. I was in Shanghai when the Japanese invaded China.
+2. I was there in Shanghai when, the morning after Pearl Harbor, they seized Shanghai.
+R= 687 P= 3.37%
+
+
+					====*705*====+
+1. Truly appreciate those around you, and you'll soon find many others around you.
+2. Truly appreciate life, and you'll find that you have more of it.
+R= 687 P= 3.37%
+
+
+					====*706*====+
+1. I just love Jimmy Stewart, Bette Davis, Katharine Hepburn - I was named after her - and Cary Grant.
+2. I just love old black and white movies and the stars in them.
+R= 687 P= 3.37%
+
+
+					====*707*====+
+1. No one ever confides a secret to one person only.
+2. No one destroys all copies of a document.
+R= 687 P= 3.37%
+
+
+					====*708*====+
+1. When you hurry, you get where you're going, but you get there alone.
+2. When you go slow, you get where you're going, but you get there with a community you've built along the way.
+R= 687 P= 3.37%
+
+
+					====*709*====+
+1. We are so arrogant, we forget that we are not the reason for evolution, we are not the point of evolution.
+2. We are part of evolution.
+R= 687 P= 3.37%
+
+
+					====*710*====+
+1. We have fought this fight as long, and as well as we know how.
+2. We have been defeated.
+R= 687 P= 3.37%
+
+
+					====*711*====+
+1. We know we're up against the wall.
+2. We know how difficult a challenge it is, being in the minority.
+R= 687 P= 3.37%
+
+
+					====*712*====+
+1. We shall find peace.
+2. We shall hear angels, we shall see the sky sparkling with diamonds.
+R= 687 P= 3.37%
+
+
+					====*713*====+
+1. You must get an education.
+2. You must go to school, and you must learn to protect yourself.
+R= 687 P= 3.37%
+
+
+					====*714*====+
+1. I love TV now, and 'Modern Family,' but what draws me back to theater is that initial instinct of wanting to be a theater actor.
+2. I love the challenge of starting a play and not stopping until you finish.
+3. I love the immediacy of trusting your instincts.
+R= 714 P= 3.29%
+
+
+					====*715*====+
+1. I'm just a regular boy who goofs around, pulls pranks, and makes jokes.
+2. I'm not Mr. Debonair Suave.
+3. I'm just a regular boy who goofs around, pulls pranks, and makes jokes.
+R= 714 P= 3.29%
+
+
+					====*716*====+
+1. I don't look back.
+2. I don't live my life in the rear-view mirror because, if you do, you're bound to end up wrapped around a pole somewhere.
+R= 716 P= 2.85%
+
+
+					====*717*====+
+1. I don't want to be treated like I came from another planet or something or was somehow born with some weird birthright or super power.
+2. I don't view myself that way.
+R= 716 P= 2.85%
+
+
+					====*718*====+
+1. Of necessity, the autobiographical self is not just about one individual but about all the others that an individual interacts with.
+2. Of necessity, it incorporates the culture in which the interactions took place.
+R= 716 P= 2.85%
+
+
+					====*719*====+
+1. I was never that good on stage with live improv.
+2. I was much better on film or writing something and then thinking about it.
+3. I was too in my head when I was on stage.
+R= 719 P= 2.78%
+
+
+					====*720*====+
+1. Have you learned the lessons only of those who admired you, and were tender with you, and stood aside for you?
+2. Have you not learned great lessons from those who braced themselves against you, and disputed passage with you?
+R= 720 P= 2.42%
+
+
+					====*721*====+
+1. Every American deserves their day in court.
+2. Every American is innocent until proven guilty.
+R= 721 P= 2.41%
+
+
+					====*722*====+
+1. He's by best friend and the father of my children.
+2. He's a great ex.
+R= 721 P= 2.41%
+
+
+					====*723*====+
+1. I am going to continue and bring this club forward.
+2. I am Paul Gascoigne the footballer.
+R= 721 P= 2.41%
+
+
+					====*724*====+
+1. It's rather like being fascinated by how cars work.
+2. It's really boring if your car works all the time.
+R= 721 P= 2.41%
+
+
+					====*725*====+
+1. I have no choice about whether or not I have Parkinson's.
+2. I have nothing but choices about how I react to it.
+R= 721 P= 2.41%
+
+
+					====*726*====+
+1. I have been brought up with certain values and ethics.
+2. I have never been egoistic about my stardom and lineage.
+R= 721 P= 2.41%
+
+
+					====*727*====+
+1. If you want to be good, you have to practice, practice, practice.
+2. If you don't love something, then don't do it.
+R= 721 P= 2.41%
+
+
+					====*728*====+
+1. I like Taiwanese food, of course.
+2. I like baguettes, especially the ones that my dad buys.
+R= 721 P= 2.41%
+
+
+					====*729*====+
+1. I like to have strong opinions with nothing to back them up with besides my primal sincerity.
+2. I like sincerity.
+R= 721 P= 2.41%
+
+
+					====*730*====+
+1. I'm at the beginning of it.
+2. I'm Elektra's last job before the story kicks off.
+R= 721 P= 2.41%
+
+
+					====*731*====+
+1. I'm glad that young black people are successful with the music.
+2. I'm not a hater.
+R= 721 P= 2.41%
+
+
+					====*732*====+
+1. I'll figure it out.
+2. I'll make some tweaks, some changes, but I'm still coming.
+R= 721 P= 2.41%
+
+
+					====*733*====+
+1. I'm not ashamed of selling millions of records.
+2. I'm very fortunate to be in that position.
+R= 721 P= 2.41%
+
+
+					====*734*====+
+1. I'm the type of guy that feels pressure when I have to order dinner.
+2. I'm just that type of guy but that's my fuel.
+R= 721 P= 2.41%
+
+
+					====*735*====+
+1. I'm very proud to be a professional tennis player.
+2. I'm really happy to be doing something that I love.
+R= 721 P= 2.41%
+
+
+					====*736*====+
+1. I'm very simple.
+2. I'm not for the flashes, I'm not for glitz and glamour, you know.
+R= 721 P= 2.41%
+
+
+					====*737*====+
+1. Then I sang a little.
+2. Then I started getting really busy as an actor and forgot about it.
+R= 721 P= 2.41%
+
+
+					====*738*====+
+1. It is time Australian Muslims stop being treated as negotiable citizens in their own country.
+2. It is time people stop 'tolerating' us, presuming some right to decide if we have a place in our own home.
+R= 721 P= 2.41%
+
+
+					====*739*====+
+1. It's every little girl's dream to have an exact look-alike doll.
+2. It's amazing.
+R= 721 P= 2.41%
+
+
+					====*740*====+
+1. I've missed more than 9000 shots in my career.
+2. I've lost almost 300 games.
+R= 721 P= 2.41%
+
+
+					====*741*====+
+1. I was 22 and stopped writing plays, and I didn't start again until I was 25.
+2. I was writing badly.
+R= 721 P= 2.41%
+
+
+					====*742*====+
+1. I was 22 years old when I met Robert Johnson.
+2. I was there the night he was poisoned.
+R= 721 P= 2.41%
+
+
+					====*743*====+
+1. I will always be open to receive my friends.
+2. I will not force myself on them.
+R= 721 P= 2.41%
+
+
+					====*744*====+
+1. It is quiet understanding, mutual confidence, sharing and forgiving.
+2. It is loyalty through good and bad times.
+R= 721 P= 2.41%
+
+
+					====*745*====+
+1. I love singing to them because they're all just great voices.
+2. I love listening to very obscure jazz.
+R= 721 P= 2.41%
+
+
+					====*746*====+
+1. Never make a negative decision in the low time.
+2. Never make your most important decisions when you are in your worst moods.
+R= 721 P= 2.41%
+
+
+					====*747*====+
+1. And when you have reached the mountain top, then you shall begin to climb.
+2. And when the earth shall claim your limbs, then shall you truly dance.
+R= 721 P= 2.41%
+
+
+					====*748*====+
+1. It is not the reason for my sentences to reform school and prison.
+2. It is the effect, not the cause.
+R= 721 P= 2.41%
+
+
+					====*749*====+
+1. When a rich man becomes poor it is a misfortune, it is not a moral evil.
+2. When a poor man becomes destitute, it is a moral evil, teeming with consequences and injurious to society and morality.
+R= 721 P= 2.41%
+
+
+					====*750*====+
+1. You can tell them.
+2. You can shine that light on them, one human interaction at a time.
+R= 721 P= 2.41%
+
+
+					====*751*====+
+1. I like the little park in Dumbo between the Manhattan and Brooklyn bridge.
+2. I like Prospect Park.
+R= 721 P= 2.41%
+
+
+					====*752*====+
+1. Success is neither magical nor mysterious.
+2. Success is the natural consequence of consistently applying the basic fundamentals.
+R= 721 P= 2.41%
+
+
+					====*753*====+
+1. The devil ain't got no power over me.
+2. The devil come, and me shake hands with the devil.
+R= 721 P= 2.41%
+
+
+					====*754*====+
+1. I like to get unique pieces that you won't see everyone wearing, but at the same time I don't like to break the bank.
+2. I like to find great vintage pieces that you can hold on to for a long time.
+R= 721 P= 2.41%
+
+
+					====*755*====+
+1. That would also forcefully circulate money in the market.
+2. That would be positive for the economy, too.
+R= 721 P= 2.41%
+
+
+					====*756*====+
+1. It is part of our deep inner being.
+2. It is not so much an active emotion as a state of being.
+R= 721 P= 2.41%
+
+
+					====*757*====+
+1. We know our son.
+2. We know he's not a pedophile like some of these newscasters are saying.
+R= 721 P= 2.41%
+
+
+					====*758*====+
+1. We shouldn't just consider the desire of government to do what it wants to do.
+2. We should always consider the resistance of people.
+R= 721 P= 2.41%
+
+
+					====*759*====+
+1. If we would summon the best from Americans, we must assume the best about them.
+2. If we don't believe in Americans, who will?
+R= 759 P= 2.04%
+
+
+					====*760*====+
+1. I have always believed that the material world is governed by nonmaterial sources, so that in that sense 'English Music' is an exercise in the spiritual as well as the material.
+2. I have always been attracted to the Gothic and spiritual imagination, and I've always been interested in visionaries.
+R= 760 P= 2.04%
+
+
+					====*761*====+
+1. We have been given a role to play.
+2. We have been asked to provide, to give lectures on the role of Islamic development and the way we do it here, so the people who are Muslims there would understand what the role of Islam is.
+R= 760 P= 2.04%
+
+
+					====*762*====+
+1. When I'm hired just to be an actress, I don't have to worry about anything else but showing up on set, making sure I know my lines and making sure I know what I'm bringing to the character.
+2. When I'm a creator and executive producer, I have to worry about the whole thing.
+R= 760 P= 2.04%
+
+
+					====*763*====+
+1. A city is where you can sign a petition, boo the chief justice, fish off a pier, gaze at a hippopotamus, buy a flower at the corner, or get a good hamburger or a bad girl at 4 A.M.
+2. A city is where sirens make white streaks of sound in the sky and foghorns speak in dark grays.
+R= 763 P= 1.92%
+
+
+					====*764*====+
+1. If you try to shortcut the game, then the game will shortcut you.
+2. If you put forth the effort, good things will be bestowed upon you.
+R= 764 P= 1.72%
+
+
+					====*765*====+
+1. He's not exactly the biggest, strongest guy in the world.
+2. He's more a rich, snobby person.
+R= 764 P= 1.72%
+
+
+					====*766*====+
+1. I'm unhappy at not being able to open packages anymore.
+2. I'm angry that libraries have gone.
+R= 764 P= 1.72%
+
+
+					====*767*====+
+1. She was the best.
+2. She was always there and ready to drive me to all my plays and stuff.
+R= 764 P= 1.72%
+
+
+					====*768*====+
+1. I don't think I could ever do a network sitcom because the humor is often based on some trite circumstance.
+2. I don't want to be a part of a show where it's mostly about coming up with the jokes.
+R= 764 P= 1.72%
+
+
+					====*769*====+
+1. There are no limits.
+2. There are only plateaus, and you must not stay there, you must go beyond them.
+R= 764 P= 1.72%
+
+
+					====*770*====+
+1. He was a chartered accountant for Price Waterhouse.
+2. He was strict, and we had a very ordered life.
+R= 764 P= 1.72%
+
+
+					====*771*====+
+1. I have a fear of poverty in old age.
+2. I have this vision of myself living in a skip and eating cat food.
+R= 764 P= 1.72%
+
+
+					====*772*====+
+1. I know it sounds corny, man, but I like to bring folks joy, and I like to have a good time.
+2. I know folks like to be with somebody who's having a good time.
+R= 764 P= 1.72%
+
+
+					====*773*====+
+1. If they are in pain, they can do something about it.
+2. If they have hunger or thirst, they can satisfy that.
+R= 764 P= 1.72%
+
+
+					====*774*====+
+1. I'm a terrible interviewer.
+2. I'm not a journalist - although I have a Peabody Award - and I'm not really a late-night host.
+R= 764 P= 1.72%
+
+
+					====*775*====+
+1. I'm ever curious about the world.
+2. I'm driven to go out and find new things to write about.
+R= 764 P= 1.72%
+
+
+					====*776*====+
+1. I am neither a Mahatma nor a Mahapurush, neither a Sadhu nor a Saint, neither a Yogi nor a Wali.
+2. I am the ancient One.
+R= 764 P= 1.72%
+
+
+					====*777*====+
+1. It's very addictive.
+2. It's a lovely sensation to say something and hear a whole room laugh.
+R= 764 P= 1.72%
+
+
+					====*778*====+
+1. It's not all about competing and being the best.
+2. It's more about having fun and just doing what you love.
+R= 764 P= 1.72%
+
+
+					====*779*====+
+1. I think unionization is good public policy.
+2. I think when families secure their economic future, that's good for everyone.
+R= 764 P= 1.72%
+
+
+					====*780*====+
+1. It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy.
+2. It is what you think about.
+R= 764 P= 1.72%
+
+
+					====*781*====+
+1. It's about mass immigration at a time when 21% of young people can't find work.
+2. It's about giving £50 million a day to the EU when the public finances are under great strain.
+R= 764 P= 1.72%
+
+
+					====*782*====+
+1. It's more than a job.
+2. It's very personal, so when you're hurt, you're really hurt inside.
+R= 764 P= 1.72%
+
+
+					====*783*====+
+1. It's not about composition.
+2. It's the way you feel about how your objects should relate to each other.
+R= 764 P= 1.72%
+
+
+					====*784*====+
+1. It's tangible, it's solid, it's beautiful.
+2. It's artistic, from my standpoint, and I just love real estate.
+R= 764 P= 1.72%
+
+
+					====*785*====+
+1. It wasn't until 'Thor' that I started lifting weights.
+2. It was all pretty new to me.
+R= 764 P= 1.72%
+
+
+					====*786*====+
+1. I used to write my books at night when I was a freelancer with no children.
+2. I used to really work in huge spurts - I could turn around a revision in two weeks, I used to be able to write 10,000 words a day.
+R= 764 P= 1.72%
+
+
+					====*787*====+
+1. It was really hard to say goodbye to those people.
+2. It was not the way we wanted to go out.
+R= 764 P= 1.72%
+
+
+					====*788*====+
+1. I've led a charmed life.
+2. I've known people who have been depressed, and I've never had that.
+R= 764 P= 1.72%
+
+
+					====*789*====+
+1. I wanted life to be episodic.
+2. I wanted to be a magazine photographer and I was willing to do what it took to become that.
+R= 764 P= 1.72%
+
+
+					====*790*====+
+1. Solitude is very different from a 'time-out' from our busy lives.
+2. Solitude is the very ground from which community grows.
+R= 764 P= 1.72%
+
+
+					====*791*====+
+1. We're not here to get your picture taken.
+2. We're here to make a difference, and this is our opportunity to.'
+R= 764 P= 1.72%
+
+
+					====*792*====+
+1. Sometimes you got to hurt something to help something.
+2. Sometimes you have to plow under one thing in order for something else to grow.
+R= 764 P= 1.72%
+
+
+					====*793*====+
+1. It's about making sure that it's a winning combination.
+2. It's really about giving people value for their money.
+R= 764 P= 1.72%
+
+
+					====*794*====+
+1. They are innocent people, they didn't bring this upon themselves.
+2. They are the victims of the sins of other people.
+R= 764 P= 1.72%
+
+
+					====*795*====+
+1. It's not 'I love you' for this or that reason, not 'I love you if you love me.'
+2. It's love for no reason, love without an object.
+R= 764 P= 1.72%
+
+
+					====*796*====+
+1. I would stand there, and I would act out where I was dying or something.
+2. I would make them sit there and watch all my plays.
+3. I would be talking in gibberish language, like I was talking in a different language, and my parents would be like, 'Oh that was great!'
+R= 796 P= 1.68%
+
+
+					====*797*====+
+1. He's a genocidal racist maniac.
+2. He's one of these people who thinks the world was a great place when Voldemort ruled the world.
+3. He's particularly offended by mixed-blood Mudbloods, the product of wizards and humans.
+R= 796 P= 1.68%
+
+
+					====*798*====+
+1. We're all trying to help the world... make it a better place to live.
+2. We're actually still changing the world, aren't we?
+R= 798 P= 1.45%
+
+
+					====*799*====+
+1. And I just thought, this is what I want to be.
+2. And I knew that dancing would be my chosen profession.
+R= 799 P= 1.22%
+
+
+					====*800*====+
+1. Anyone who stops learning is old, whether at twenty or eighty.
+2. Anyone who keeps learning stays young.
+R= 799 P= 1.22%
+
+
+					====*801*====+
+1. I love the fact that you can hail a taxi and just pick up your pram and put in the back of the cab without having to collapse it.
+2. I love the parks and places I go for dinner and my friends.
+R= 799 P= 1.22%
+
+
+					====*802*====+
+1. If I'm attracted to something, that's it.
+2. If I have reservations, those don't change till they're resolved.
+R= 799 P= 1.22%
+
+
+					====*803*====+
+1. God is a God of the present.
+2. God is always in the moment, be that moment hard or easy, joyful and painful.
+R= 799 P= 1.22%
+
+
+					====*804*====+
+1. If you do cardio one day and the next day you can do weights, do it that way.
+2. If you need to do it at night or in the morning, do it that way.
+R= 799 P= 1.22%
+
+
+					====*805*====+
+1. I'm afraid I will always feel the weight of a lie.
+2. I'm very hard on myself anyway.
+R= 799 P= 1.22%
+
+
+					====*806*====+
+1. I had already developed inherited back problems.
+2. I had degenerative disk disease, a form of scoliosis, arthritis.
+R= 799 P= 1.22%
+
+
+					====*807*====+
+1. It's quite tricky and actually nerve-racking to do that.
+2. It's kind of a happy train wreck.
+R= 799 P= 1.22%
+
+
+					====*808*====+
+1. I love to go to the studio and stay there 10 or 12 hours a day.
+2. I love it.
+R= 799 P= 1.22%
+
+
+					====*809*====+
+1. I'm able to leave Don Draper at work.
+2. I'm quite dissimilar from him in real life.
+R= 799 P= 1.22%
+
+
+					====*810*====+
+1. I'm more into beats than rhymes.
+2. I'm a huge fan of anything touched by the Neptunes.
+R= 799 P= 1.22%
+
+
+					====*811*====+
+1. In a closed society where everybody's guilty, the only crime is getting caught.
+2. In a world of thieves, the only final sin is stupidity.
+R= 799 P= 1.22%
+
+
+					====*812*====+
+1. And I'm scared.
+2. And I have a tendency to think things may not/probably won't work out.
+R= 799 P= 1.22%
+
+
+					====*813*====+
+1. It's such a spectacular sight.
+2. It's incredible to think that this is a tradition that has been going on for centuries.
+R= 799 P= 1.22%
+
+
+					====*814*====+
+1. It is now for the Catholic Church to bend herself to her work with calmness and generosity.
+2. It is for you to observe her with renewed and friendly attention.
+R= 799 P= 1.22%
+
+
+					====*815*====+
+1. It is only in appearance that time is a river.
+2. It is rather a vast landscape and it is the eye of the beholder that moves.
+R= 799 P= 1.22%
+
+
+					====*816*====+
+1. It's no fun for an actor to keep repeating what you did before.
+2. It's always changing.
+R= 799 P= 1.22%
+
+
+					====*817*====+
+1. It's so exciting to headline a film.
+2. It's not every day you see a Latina carrying a full-length feature.
+R= 799 P= 1.22%
+
+
+					====*818*====+
+1. It's vital that the monarchy keeps in touch with the people.
+2. It's what I try and do.
+R= 799 P= 1.22%
+
+
+					====*819*====+
+1. It was never the fame or fortune that drove me to act.
+2. It was something I love and enjoy doing it.
+R= 799 P= 1.22%
+
+
+					====*820*====+
+1. I'm not really good, but in time I could be.
+2. I'm more of a singer than anything.
+R= 799 P= 1.22%
+
+
+					====*821*====+
+1. I've always done theater.
+2. I've never thought of myself as a comedic actress in any way.
+R= 799 P= 1.22%
+
+
+					====*822*====+
+1. I want to create an environment where I can create technology, get it into the hands of someone to market it, and move on to other technologies so I can keep innovating.
+2. I want to be a serial entrepreneur: Incubate an idea, get it to a good state, and make that an enabler to get to the next state.
+R= 799 P= 1.22%
+
+
+					====*823*====+
+1. Give them too much and they won't contribute anything themselves.
+2. Give them just a suggestion and you get them working with you.
+R= 799 P= 1.22%
+
+
+					====*824*====+
+1. I want to go back to the format that radio started with rock n' roll, with country artists and rhythm and blues with that oldies type feeling.
+2. I want to put it all together and create a Top 40 of rhythm and blues and country and straight blues with Wolfman at the reins.
+R= 799 P= 1.22%
+
+
+					====*825*====+
+1. I was running track early in my years and I was breaking track records in sprint running.
+2. I was training and I wanted to be in the Olympics.
+R= 799 P= 1.22%
+
+
+					====*826*====+
+1. Let us tenderly and kindly cherish, therefore, the means of knowledge.
+2. Let us dare to read, think, speak, and write.
+R= 799 P= 1.22%
+
+
+					====*827*====+
+1. A few medical physicists devote their time to research and teaching.
+2. A few get involved with administrative duties.
+R= 799 P= 1.22%
+
+
+					====*828*====+
+1. I had never held a camera in my hand - a home video camera, nothing.
+2. I had not directed.
+R= 799 P= 1.22%
+
+
+					====*829*====+
+1. Simplicity is not the absence of clutter, that's a consequence of simplicity.
+2. Simplicity is somehow essentially describing the purpose and place of an object and product.
+R= 799 P= 1.22%
+
+
+					====*830*====+
+1. There are still so few female directors.
+2. There are far fewer writers than we'd like to see.
+R= 799 P= 1.22%
+
+
+					====*831*====+
+1. We're looking at six or seven problems constantly.
+2. We're living in the disturbed societies of cities.
+R= 799 P= 1.22%
+
+
+					====*832*====+
+1. It makes me want to compete even more.
+2. It makes it all worthwhile, all the hours of hard work.
+R= 799 P= 1.22%
+
+
+					====*833*====+
+1. It's a complete lie, why do people buy these papers?
+2. It's not the truth I'm here to say.
+R= 833 P= 1.03%
+
+
+					====*834*====+
+1. America was not built on fear.
+2. America was built on courage, on imagination and an unbeatable determination to do the job at hand.
+R= 834 P= 0.87%
+
+
+					====*835*====+
+1. It's awful, and it hurts so many people around you.
+2. It's a terribly selfish thing to do.
+R= 834 P= 0.87%
+
+
+					====*836*====+
+1. It's destroyed the motivation to go out there and really make the best record possible.
+2. It's a shame.
+R= 834 P= 0.87%
+
+
+					====*837*====+
+1. I am not interested in women just because they're women.
+2. I am interested, however, in seeing that they are no longer classed with children and minors.
+R= 834 P= 0.87%
+
+
+					====*838*====+
+1. I am the baby in the family, and I always will be.
+2. I am actually very happy to have that position.
+R= 834 P= 0.87%
+
+
+					====*839*====+
+1. If someone is very upper-class, you have a stereotype of him which is probably true.
+2. If someone has a working-class accent, you have no idea who you're talking to.
+R= 834 P= 0.87%
+
+
+					====*840*====+
+1. If you really want to write, then shut yourself in a room, close the door, and WRITE.
+2. If you don't want to write, do something else.
+R= 834 P= 0.87%
+
+
+					====*841*====+
+1. I have an I.Q. of 100 plus a little bit.
+2. I have to work real hard to get things when I read.
+R= 834 P= 0.87%
+
+
+					====*842*====+
+1. I'm hardly digging trenches for a living.
+2. I'm getting to tap into my boyhood fantasies of being a larger-than-life character.
+R= 834 P= 0.87%
+
+
+					====*843*====+
+1. They often feel like people auditioning for a big commercial career.
+2. They often do not have independent spirit to them.
+R= 834 P= 0.87%
+
+
+					====*844*====+
+1. It's like, it's kind of like if you ever had a car and it was a bit of a clunker but you love it, that's my show.
+2. It's a bit of a clunker but I know where everything is and I like it.
+R= 834 P= 0.87%
+
+
+					====*845*====+
+1. It was nothing but a chore.
+2. It was something you had to do to have your music accepted in the visual medium.
+R= 834 P= 0.87%
+
+
+					====*846*====+
+1. I always imagined cartooning would be how I got my seed capital.
+2. I always thought my other businesses would be the less dominant part of my life.
+R= 834 P= 0.87%
+
+
+					====*847*====+
+1. I've done a whole lot of things.
+2. I've had the pleasure of introducing two presidents, several senators and congressmen.
+R= 834 P= 0.87%
+
+
+					====*848*====+
+1. I want to be an inspirational model.
+2. I want people to look at me and say, 'Wow, she looks healthy.'
+R= 834 P= 0.87%
+
+
+					====*849*====+
+1. One cannot collect all the beautiful shells on the beach.
+2. One can collect only a few, and they are more beautiful if they are few.
+R= 834 P= 0.87%
+
+
+					====*850*====+
+1. The first pages of memory are like the old family Bible.
+2. The first leaves are wholly faded and somewhat soiled with handling.
+R= 834 P= 0.87%
+
+
+					====*851*====+
+1. It's prestigious, respected, coveted, dreamed about.
+2. It's very satisfying to be included in this group of writers.
+R= 834 P= 0.87%
+
+
+					====*852*====+
+1. There is no such thing as an empty space or an empty time.
+2. There is always something to see, something to hear.
+R= 834 P= 0.87%
+
+
+					====*853*====+
+1. There's a delicious irony in seeing private luxury jets flying in to Washington, D.C., and people coming off of them with tin cups in their hands saying that they're going to be trimming down and streamlining their businesses.
+2. There's a message there.
+R= 834 P= 0.87%
+
+
+					====*854*====+
+1. Wearing a turtleneck is like being strangled by a really weak guy, all day.
+2. Wearing a backpack and a turtleneck is like a weak midget trying to bring you down.
+R= 834 P= 0.87%
+
+
+					====*855*====+
+1. We don't thrive on military acts.
+2. We do them because we have to, and thank God we are efficient.
+R= 834 P= 0.87%
+
+
+					====*856*====+
+1. You've just got to trust your instincts and realize that you can't please all the people all the time.
+2. You've got to please yourself ultimately in the end.
+R= 834 P= 0.87%
+
+
+					====*857*====+
+1. It's maddening!
+2. It's fiddly, and it pricks your fingers, and it's something that's a very hard skill if you have no alacrity for it.
+R= 857 P= 0.73%
+
+
+					====*858*====+
+1. We thought that's kind of strange, because music is full of life!
+2. We thought we could break through that barrier with theater and comedy elements.
+R= 857 P= 0.73%
+
+
+					====*859*====+
+1. You can teach all the other stuff, you know.
+2. You can teach shooting the ball, you can teach having a good touch... passing and whatnot, but when you get out there on the field, it's just a mindset you need to go into the game with.
+R= 859 P= 0.73%
+
+
+					====*860*====+
+1. All the old great companies were run by guys who knew what an animator meant, and guys who knew how to draw.
+2. All the companies today are run by executives.
+R= 860 P= 0.62%
+
+
+					====*861*====+
+1. I have not become the victim of an image.
+2. I have managed to do different roles, and I am proud of that.
+R= 860 P= 0.62%
+
+
+					====*862*====+
+1. I am not thinking that because people say I am great that I really am great.
+2. I am just doing a job, just like everybody else.
+R= 860 P= 0.62%
+
+
+					====*863*====+
+1. I get a lot of action scripts.
+2. I get low-budget vehicles that will end up right on the video shelf.
+R= 860 P= 0.62%
+
+
+					====*864*====+
+1. I've never given tranquillisers or psychiatric medicine.
+2. I've given love and fun and creativity and passion and hope, and these things ease suffering.
+R= 860 P= 0.62%
+
+
+					====*865*====+
+1. I'm John Lee Hooker in the sense that he was a blues man and he played blues his whole life.
+2. I'm a rock guy and I'm going to play rock music my whole life.
+R= 860 P= 0.62%
+
+
+					====*866*====+
+1. I need wrong to get laughs.
+2. I need a normal world so that I can be abnormal, and that's my problem.
+R= 860 P= 0.62%
+
+
+					====*867*====+
+1. It was one of my first big jobs, a shoot for British 'Elle.'
+2. It was April 14, 1986.
+R= 860 P= 0.62%
+
+
+					====*868*====+
+1. It is my belief that we all have the need to feel special.
+2. It is this need that can bring out the best in us, yet the worst in us.
+R= 860 P= 0.62%
+
+
+					====*869*====+
+1. I use technology for communication, but I don't have a Blackberry or an iPhone.
+2. I use an outdated cell phone, but I'm fine with it.
+R= 860 P= 0.62%
+
+
+					====*870*====+
+1. I was a club kid.
+2. I was on the cover of 'New York' magazine and discovered like that.
+R= 860 P= 0.62%
+
+
+					====*871*====+
+1. I was like a Borscht Belt comedian trapped in the body of a 6-year-old.
+2. I was channeling Jackie Mason at 7.
+R= 860 P= 0.62%
+
+
+					====*872*====+
+1. They deserve, in my judgment, partnership benefits.
+2. They deserve to be treated fairly when it comes to adoption and immigration.
+R= 860 P= 0.62%
+
+
+					====*873*====+
+1. There's the pressure of being a No. 1 on the call sheet, being a lead actor.
+2. There's almost this feeling like being captain of the team.
+R= 860 P= 0.62%
+
+
+					====*874*====+
+1. We must free ourselves of the hope that the sea will ever rest.
+2. We must learn to sail in high winds.
+R= 860 P= 0.62%
+
+
+					====*875*====+
+1. He was always very supportive.
+2. He was a big star and a lot of what he said to me had power and impact.
+R= 860 P= 0.62%
+
+
+					====*876*====+
+1. You can pick the most sensational version.
+2. You can try to balance things in your gut to get to what you think is the honest truth.
+R= 860 P= 0.62%
+
+
+					====*877*====+
+1. It's very juicy to twirl your mustache and figure out why people do the horrible things that they do.
+2. It's not just because they are evil, but because that's how they somehow explain the world to themselves and justify themselves.
+3. It's always interesting figuring out how that happens.
+R= 877 P= 0.60%
+
+
+					====*878*====+
+1. I'm endlessly putting myself on tapes for things over in America!
+2. I'm always sitting at home, learning lines, sending stuff to America.
+R= 878 P= 0.52%
+
+
+					====*879*====+
+1. It's reflecting back on what you're hearing.
+2. It's processing the information to formulate a question, a comment or a speech.
+R= 879 P= 0.44%
+
+
+					====*880*====+
+1. We need to do more.
+2. We need controls immediately on what forms of ID are adequate to board planes and enter secure sites.
+R= 879 P= 0.44%
+
+
+					====*881*====+
+1. Faith is the great cop-out, the great excuse to evade the need to think and evaluate evidence.
+2. Faith is belief in spite of, even perhaps because of, the lack of evidence.
+R= 879 P= 0.44%
+
+
+					====*882*====+
+1. If you have a membership, you're bound to go.
+2. If you say, like, 'Oh, I'll get it one day,' you're never going to do it.
+R= 879 P= 0.44%
+
+
+					====*883*====+
+1. We can sit and enjoy each other's company.
+2. We can go out for a walk without worrying about shooting schedules.
+R= 879 P= 0.44%
+
+
+					====*884*====+
+1. I believe that the 'dark night of the soul' is a common spiritual experience.
+2. I believe, too, that the answer is continued seeking and perseverance.
+R= 879 P= 0.44%
+
+
+					====*885*====+
+1. about the bad things, then I should have said, 'God, why me?'
+2. about the good things that happened in my life.
+R= 879 P= 0.44%
+
+
+					====*886*====+
+1. I would prefer to have more curves because I think that's more beautiful.
+2. I would much rather have J. Lo's body than mine.
+R= 879 P= 0.44%
+
+
+					====*887*====+
+1. I have big hope for the Canadian government to help Somalia with something concrete and tangible.
+2. I haven't seen that.
+R= 879 P= 0.44%
+
+
+					====*888*====+
+1. I haven't got purity, and I don't think I ever did.
+2. I have always been, even as a child, a very decadent little person.
+R= 879 P= 0.44%
+
+
+					====*889*====+
+1. I like people who look like they've been together for too long and sound like they've been together too long.
+2. I like rock n' roll bands.
+R= 879 P= 0.44%
+
+
+					====*890*====+
+1. I like to eat pizza and spaghetti pomodoro, and I'm crazy for dessert.
+2. I like all of them: cassata, cheesecake, biscuits.
+R= 879 P= 0.44%
+
+
+					====*891*====+
+1. I love being a television actor.
+2. I love the relationship that I have with my fans, and all of those things.
+R= 879 P= 0.44%
+
+
+					====*892*====+
+1. I'm human and I've played my butt off for ten years.
+2. I'm not a loafer, I'm not a jerk, I'm a baseball player.
+R= 879 P= 0.44%
+
+
+					====*893*====+
+1. I'm not a great shopper but I do buy a lot of books.
+2. I'm the publishers' friend - I buy a hundred books a year and read four.
+R= 879 P= 0.44%
+
+
+					====*894*====+
+1. I'm not really very ambitious.
+2. I'm more interested in enjoying my life and looking after my family than being hugely successful.
+R= 879 P= 0.44%
+
+
+					====*895*====+
+1. I'm telling you, it's so exciting playing out there because I'm playing well, you have the crowd behind you, and it's such a good feeling.
+2. I'm really having a good time out there.
+R= 879 P= 0.44%
+
+
+					====*896*====+
+1. I think Delhiites know how to party, but Kolkata has people who know how to celebrate.
+2. I think that's the main difference.
+R= 879 P= 0.44%
+
+
+					====*897*====+
+1. It's a great honor to me to be named to the Hall of Fame.
+2. It's very hard for me to even imagine that I would ever be elected to it.
+R= 879 P= 0.44%
+
+
+					====*898*====+
+1. I've honestly been so lucky.
+2. I've never had a job where I didn't look forward to being on set in the morning.
+R= 879 P= 0.44%
+
+
+					====*899*====+
+1. He's too crippled and shy, and that's almost harder.
+2. He's there and he loves me, and I try and try and try, it's just impossible to have a relationship.
+R= 879 P= 0.44%
+
+
+					====*900*====+
+1. It is not conquest, it is not empire, it is not foreign bases, it is not domination.
+2. It is, simply put, just to prevent the forceful conquest of South Vietnam by North Vietnam.
+R= 879 P= 0.44%
+
+
+					====*901*====+
+1. He who shows his hand will surely be defeated.
+2. He who can prevail in battle by taking advantage of his enemy's doubts is invincible.
+R= 879 P= 0.44%
+
+
+					====*902*====+
+1. I'm not going out and hitting a 95-mph fastball where I can't see the stitches.
+2. I'm not on a professional football team looking to tackle a fullback who is built like solid wood.
+3. I'm a thinking person, and I've been blessed with the ability to see some things and talk about them in a way that registers in a humorous and funny way.
+R= 902 P= 0.43%
+
+
+					====*903*====+
+1. I'm always stressed when I have to wear a long dress, especially with those high heels.
+2. I'm like, 'Oh my God, I'm going to fall!
+R= 903 P= 0.37%
+
+
+					====*904*====+
+1. As we let our light shine, we unconsciously give other people permission to do the same.
+2. As we are liberated from our own fear, our presence actually liberates others.
+R= 904 P= 0.31%
+
+
+					====*905*====+
+1. I'll also celebrate skinned knees and bruised elbows.
+2. I'll celebrate so-called 'dangerous' playgrounds - playgrounds with see-saws, zip lines and towering slides.
+R= 904 P= 0.31%
+
+
+					====*906*====+
+1. Going public is 18-month process, while an acquisition is a 6-month process.
+2. Going public means going under so much scrutiny, regulatory approval, auditing, magnified 10 times.
+R= 904 P= 0.31%
+
+
+					====*907*====+
+1. It's not about abandoning what I was doing before, or giving up.
+2. It's about knowing that if I die tomorrow, I lived the way I wanted to.
+R= 904 P= 0.31%
+
+
+					====*908*====+
+1. If you have love in your life, it can make up for a great many things that are missing.
+2. If you don't have love in your life, no matter what else there is, it's not enough.
+R= 904 P= 0.31%
+
+
+					====*909*====+
+1. If you're 50, you're never going to be 50 ever again, so enjoy being 50.
+2. If you sit through the year wishing you were younger, before you know it, it's going to be over, and you're going to be 51.
+R= 904 P= 0.31%
+
+
+					====*910*====+
+1. I have learned so much about myself.
+2. I have re-discovered that little boy who had the hunger to create, which I think I had lost.
+R= 904 P= 0.31%
+
+
+					====*911*====+
+1. I like going to museums and stuff, but I also like going out and doing lots of physical activity like camping and hiking.
+2. I like doing stuff that I've never done before.
+R= 904 P= 0.31%
+
+
+					====*912*====+
+1. I'm just a poor boy from the cornfields of Richmond, Virginia.
+2. I'm proud because I loved baseball and played with the best.
+R= 904 P= 0.31%
+
+
+					====*913*====+
+1. I'm South American, and growing up in New York, I had the total stereotypical way of thinking of what Texas was about.
+2. I'm like, Texas.
+R= 904 P= 0.31%
+
+
+					====*914*====+
+1. That's really important for all of us, whether it's your religion or Santa Claus, or whatever.
+2. That's pretty much what it's about.
+R= 904 P= 0.31%
+
+
+					====*915*====+
+1. It's weird to have people just calling me Prince Charming in the street.
+2. It's a lot of pressure to walk around sometimes.
+R= 904 P= 0.31%
+
+
+					====*916*====+
+1. I was a bratty little sister.
+2. I was the youngest of three, and I often felt as though I didn't fit in.
+R= 904 P= 0.31%
+
+
+					====*917*====+
+1. May your trails be crooked, winding, lonesome, dangerous, leading to the most amazing view.
+2. May your mountains rise into and above the clouds.
+R= 904 P= 0.31%
+
+
+					====*918*====+
+1. She's going to be very good.
+2. She's graduated from Music School and she's been working down around and getting her feet wet, you know.
+R= 904 P= 0.31%
+
+
+					====*919*====+
+1. We have got a problem winning games in the league.
+2. We have to educate ourselves and maybe we have to not play the lovely football that we have been.
+R= 904 P= 0.31%
+
+
+					====*920*====+
+1. When I'm doing work online or on the computer, it's one thing.
+2. When I want to read, I want to go elsewhere, and I want to be away from the screen.
+R= 904 P= 0.31%
+
+
+					====*921*====+
+1. When I work, I work very hard.
+2. When I don't work, I have to do something where my endeavor can totally take me off what I do professionally, like sailing.
+R= 904 P= 0.31%
+
+
+					====*922*====+
+1. I'm not talking about monetarily.
+2. I'm talking spiritually and mentally, and we help make sure that each one is on their game for their spouses.
+R= 922 P= 0.22%
+
+
+					====*923*====+
+1. I'm ready to have a show that really hits big.
+2. I'm excited to do another six years or more of a show like I did on 'Reba.'
+R= 922 P= 0.22%
+
+
+					====*924*====+
+1. I love what I do, somehow I have been able to play in a band for my entire life and that is all I ever wanted to do.
+2. I love that I get to do that.
+R= 922 P= 0.22%
+
+
+					====*925*====+
+1. I'm famous for splurging at fast-food places.
+2. I'm currently obsessed with Taco Bell's bean and cheese burritos with extra green sauce and extra cheese.
+R= 922 P= 0.22%
+
+
+					====*926*====+
+1. I'm not going to allow myself to second-guess projects.
+2. I'm just going to do the ones that I fully love and believe in - that's a real privilege.
+R= 922 P= 0.22%
+
+
+					====*927*====+
+1. I'm sick of following my dreams.
+2. I'm just going to ask them where they're goin', and hook up with them later.
+R= 922 P= 0.22%
+
+
+					====*928*====+
+1. I'm very focused on the world and my career and my Porsche turbo and making money and Stevie B. Inc.
+2. I'm just living according to the standards of the world.
+R= 922 P= 0.22%
+
+
+					====*929*====+
+1. I think it really exists and is part of the human condition.
+2. I think in the course of your life you figure out ways to deal with that.
+R= 922 P= 0.22%
+
+
+					====*930*====+
+1. I think it would be lovely to see some features on a disc of 'The Rocketeer,' with some reminiscing.
+2. I think that would be dynamite.
+R= 922 P= 0.22%
+
+
+					====*931*====+
+1. I think this Occupy Wall Street thing is great.
+2. I think that is a good thing and that people need to stand up, voice their opinions, and be heard.
+R= 922 P= 0.22%
+
+
+					====*932*====+
+1. It's ridiculous that people aren't allowed to love who they love, have families, and have the same life as straight people.
+2. It's infuriating.
+R= 922 P= 0.22%
+
+
+					====*933*====+
+1. I was always a sci-fi and fantasy geek.
+2. I was in the 'Lord of the Rings' club and all my cool friends made fun of me.
+R= 922 P= 0.22%
+
+
+					====*934*====+
+1. I was the candidate first time a Green or any progressive third party has ever been in a national televised debate.
+2. I was in five of them.
+R= 922 P= 0.22%
+
+
+					====*935*====+
+1. It was his hobby, and we had a small darkroom in the fruit cellar of our basement.
+2. It was the kind of makeshift darkroom that was only dark at night.
+R= 922 P= 0.22%
+
+
+					====*936*====+
+1. Its transmission was oral.
+2. Its transmission today is still in part oral, because we become acquainted with poetry through nursery rhymes, which we hear before we can read.
+R= 922 P= 0.22%
+
+
+					====*937*====+
+1. It's been around for 2000 years.
+2. It's not going anyplace and people use it all of the time for a variety of cures and to avoid illnesses.
+R= 922 P= 0.22%
+
+
+					====*938*====+
+1. There's a fine line between what would characterize you as a troglodyte and what would characterize you as a brilliant, avant-garde, forward-thinking genius.
+2. There's some middle ground.
+R= 922 P= 0.22%
+
+
+					====*939*====+
+1. It's not easy to sit down and open yourself up and say, 'This is how much I love you,' you know?
+2. It's scary to do that.
+R= 939 P= 0.19%
+
+
+					====*940*====+
+1. I was the type of guy that never fitted in because he never dared to choose.
+2. I was convinced I had absolutely no talent at all.
+R= 940 P= 0.16%
+
+
+					====*941*====+
+1. Don't ever criticize yourself.
+2. Don't go around all day long thinking, 'I'm unattractive, I'm slow, I'm not as smart as my brother.'
+R= 940 P= 0.16%
+
+
+					====*942*====+
+1. Fashion is not something that exists in dresses only.
+2. Fashion is in the sky, in the street, fashion has to do with ideas, the way we live, what is happening.
+R= 940 P= 0.16%
+
+
+					====*943*====+
+1. It's always been about Black Sabbath.
+2. It's strange to open up and talk about me as a young lad, my relationships, marriages and what not.
+R= 940 P= 0.16%
+
+
+					====*944*====+
+1. I would walk into one of my trailers and it would be like Spanx, a spray-tan gun, and chicken cutlets.
+2. I would have hair extensions.
+R= 940 P= 0.16%
+
+
+					====*945*====+
+1. It was most of the original cast - Larry Kert, Chita Rivera - and Jerry Robbins directed.
+2. It was tough, a wonderful initiation for me.
+R= 940 P= 0.16%
+
+
+					====*946*====+
+1. I loved growing up and going to haunted houses and being scared.
+2. I loved watching 'The Exorcist,' 'Candyman' and all sorts of scary movies.
+R= 940 P= 0.16%
+
+
+					====*947*====+
+1. When I go to work, I know what I am doing and I do it to the best of my abilities.
+2. When I party, I take exactly the same rule book with me.
+R= 940 P= 0.16%
+
+
+					====*948*====+
+1. I was very shy, so the bluff served me.
+2. I was telling people that I had no money, and that I knew how to make films, but I had no proof.
+R= 940 P= 0.16%
+
+
+					====*949*====+
+1. It's so much easier to manipulate actors than to really have an earnest discussion with them.
+2. It's very easy to say whatever's going to appease them and then turn around and do whatever you want to do.
+3. It's difficult to be forthright with people, because the job does not lend itself to that.
+R= 949 P= 0.15%
+
+
+					====*950*====+
+1. The - generally, yeah, I mean, if you think about it, bunt is the only play in baseball that both sides applaud.
+2. The - if the home team bunts, you get a base.
+R= 950 P= 0.11%
+
+
+					====*951*====+
+1. It's a music that has indigenous, African and European components.
+2. It's played in all of America - from Argentina to the U.S.
+R= 950 P= 0.11%
+
+
+					====*952*====+
+1. I think, like most people in their early 20s, I kind of strayed away from it.
+2. I think once I have a family I'll be back into it.
+R= 950 P= 0.11%
+
+
+					====*953*====+
+1. It's so easy to prepare, and it fills you up and gives you all the nutrients you need.
+2. It's a well-balanced meal, but you don't have to do a lot of preparation.
+R= 950 P= 0.11%
+
+
+					====*954*====+
+1. I just do what I want, say what I want, say how I feel, and I don't try to hurt nobody.
+2. I just try to make sure that I don't compromise my art in any kind of way, and I think people respect that.
+R= 950 P= 0.11%
+
+
+					====*955*====+
+1. I'm not a professional politician.
+2. I'm a professional problem solver, and I believe we should cut the salaries of senators and congressmen 10 percent until they balance the budget.
+R= 950 P= 0.11%
+
+
+					====*956*====+
+1. Instead of being critical of people in authority over you and envious of their position, be happy you're not responsible for everything they have to do.
+2. Instead of piling on complaints, thank them for what they do.
+R= 950 P= 0.11%
+
+
+					====*957*====+
+1. I think that I've always been attracted to characters who are positive and come from a very innocent place.
+2. I think there's a lot of room for discovery in these characters, and that's something I always have fun playing.
+R= 950 P= 0.11%
+
+
+					====*958*====+
+1. I was always keen to get involved in the school drama productions and was a member of the school choir.
+2. I was lucky to have attended schools that took music and drama very seriously and the teachers were just brilliant.
+R= 950 P= 0.11%
+
+
+					====*959*====+
+1. I think I like to try to find a connection with somebody, like, that's my main thing.
+2. I think that maybe if you find a connection with a girl on a date, that's like the No. 1 thing, and then it's like, 'Cool, that was a great date.'
+R= 950 P= 0.11%
+
+
+					====*960*====+
+1. It means keeping Britain open to inward investors, trade and skilled workers.
+2. It means cutting red tape which is suffocating growing companies which create jobs.
+R= 950 P= 0.11%
+
+
+					====*961*====+
+1. The more closely you get in touch with your dreams, the more able you are to make them real.
+2. The more vividly you consider how you want your world to be, the more real and effective tools you will have for making it so.
+R= 950 P= 0.11%
+
+
+					====*962*====+
+1. Libraries are in a transition right now, caught between two forces, the old ways and technology.
+2. Libraries are under a lot of pressure to provide both.
+R= 950 P= 0.11%
+
+
+					====*963*====+
+1. I was fortunate enough to be friends with Sammy Davis, Jr. - I spent a lot of time with Sammy.
+2. I was over at his house almost every night.
+R= 963 P= 0.08%
+
+
+					====*964*====+
+1. You can create your own sort of reality which is actually more exciting than shooting on location.
+2. You can conjure up a complete atmosphere of escapism for the public.
+R= 963 P= 0.08%
+
+
+					====*965*====+
+1. If I leave my computer, I'm probably not going to get back for hours.
+2. If I take a few minutes to answer questions and go web surfing, then guilt kicks in and I get back to work.
+R= 963 P= 0.08%
+
+
+					====*966*====+
+1. In a play, you only get one chance, and you have to get it perfect.
+2. In a film, you can change and fix it whatever way you want, so really, there's a pretty big difference.
+R= 963 P= 0.08%
+
+
+					====*967*====+
+1. Mug a banker and you might score a wallet containing a month's rent.
+2. Mug a janitor and you will be lucky to get away with bus fare to flee the crime scene.
+R= 963 P= 0.08%
+
+
+					====*968*====+
+1. It wasn't career-oriented in any way.
+2. It was more fun and therapeutic, so I never really thought of it as something I would end up doing.
+R= 963 P= 0.08%
+
+
+					====*969*====+
+1. I want everybody to think I'm a hard worker as an aunt, a sister, a friend, a daughter, a niece, everything.
+2. I want to be great at every role, because every role in my life is as important as being Jessie J..
+R= 963 P= 0.08%
+
+
+					====*970*====+
+1. It's primarily Mick Jagger, but they're all so confident and relaxed and in love with what they do, and aware of the power of what they do.
+2. It's just deeply, deeply attractive.
+R= 963 P= 0.08%
+
+
+					====*971*====+
+1. There's something special about L.A. And New York, for me, because it's home.
+2. There's nothing quite like walking onstage at Madison Square Garden.
+R= 963 P= 0.08%
+
+
+					====*972*====+
+1. I have my moments of deep discouragement.
+2. I have to go to God in prayer with tears in my eyes, and say, 'O God, forgive me,' or 'Help me.'
+R= 963 P= 0.08%
+
+
+					====*973*====+
+1. It's a very liberating thing, when you say this is who I am warts and all and then you can just get on with life.
+2. It's amazing.
+R= 963 P= 0.08%
+
+
+					====*974*====+
+1. Don't be trapped by dogma - which is living with the results of other people's thinking.
+2. Don't let the noise of others' opinions drown out your own inner voice.
+R= 963 P= 0.08%
+
+
+					====*975*====+
+1. It's very surreal.
+2. It's almost as if the babies are out there pulling strings somewhere, deciding what kind of life they want to be born into.
+R= 975 P= 0.06%
+
+
+					====*976*====+
+1. Do not brood over your past mistakes and failures as this will only fill your mind with grief, regret and depression.
+2. Do not repeat them in the future.
+R= 975 P= 0.06%
+
+
+					====*977*====+
+1. If I have any vice it's eating.
+2. If I was told I could only eat one food for the rest of my life, I could put up with sausage and mash forever.
+R= 975 P= 0.06%
+
+
+					====*978*====+
+1. I don't think it's the job of filmmakers to give anybody answers.
+2. I do think, though, that a good film makes you ask questions of yourself as you leave the theatre.
+R= 975 P= 0.06%
+
+
+					====*979*====+
+1. If you grow up in Britain, you just do Shakespeare.
+2. If you go and work in a theater once or twice or three times in your life, you're going to end up doing a Shakespeare, because he's obviously such a brilliant, brilliant writer.
+R= 975 P= 0.06%
+
+
+					====*980*====+
+1. I made up my mind that that was never going to happen to me again.
+2. I made a brave step to walk out in a society when you didn't walk out of an abusive marriage.
+R= 975 P= 0.06%
+
+
+					====*981*====+
+1. I'm at a point in my life where I have something solid now.
+2. I'm a peaceful person, and I want to be surrounded by peace no matter what I'm doing.
+R= 975 P= 0.06%
+
+
+					====*982*====+
+1. It's almost like a lot of black people in America, a lot of young black men, are born with this cloud over their heads.
+2. It's their penitentiary cloud, this philosophy we all have, that it's harder for us.
+R= 975 P= 0.06%
+
+
+					====*983*====+
+1. I understood, through rehab, things about creating characters.
+2. I understood that creating whole people means knowing where we come from, how we can make a mistake and how we overcome things to make ourselves stronger.
+R= 975 P= 0.06%
+
+
+					====*984*====+
+1. They were housing developments that were brutal in many ways, that cared almost not a thing for the human beings inside.
+2. They were just designed to make money.
+R= 975 P= 0.06%
+
+
+					====*985*====+
+1. My mom was a single mother, raising my sister and me.
+2. My mom has an incredible talent for living in the world without traditional structure, and her friend, who was in advertising, put me in a commercial when I was five.
+R= 975 P= 0.06%
+
+
+					====*986*====+
+1. I really have to be wowed by a character I encounter in a script, or a storyline.
+2. I really do need to feel inspiration, otherwise I'm just happy planting perennials and making goat cheese.
+R= 975 P= 0.06%
+
+
+					====*987*====+
+1. Thank you, hard taco shells, for surviving the long journey from factory, to supermarket, to my plate and then breaking the moment I put something inside you.
+2. Thank you.
+R= 975 P= 0.06%
+
+
+					====*988*====+
+1. It's been the site of intense pain and the most intense feelings of joy and satisfaction.
+2. It's a relationship that has evolved over time, given me the greatest respect and love for the game.
+R= 975 P= 0.06%
+
+
+					====*989*====+
+1. It's genuine.
+2. It's crystal and it's pure and it's available to everybody, so just shut your traps and put down your McDonalds, your vaccines, your Us Weekly, your TMZ and the rest of it.
+R= 975 P= 0.06%
+
+
+					====*990*====+
+1. I started growing my audience in small clubs through word-of-mouth.
+2. I started making music that isn't necessarily commercially viable, and it's not necessarily marketable to my peers to a certain extent.
+R= 990 P= 0.04%
+
+
+					====*991*====+
+1. I think computer viruses should count as life.
+2. I think it says something about human nature that the only form of life we have created so far is purely destructive.
+R= 990 P= 0.04%
+
+
+					====*992*====+
+1. I think these last 10 years have seen just a huge shift in the psyche of this country as regards gay people.
+2. I think AIDS had a lot to do with it.
+R= 990 P= 0.04%
+
+
+					====*993*====+
+1. I'm going to do some TV shows and videos but nothing else... I don't like to travel too much or do concerts.
+2. I'm more of a studio and home girl.
+R= 990 P= 0.04%
+
+
+					====*994*====+
+1. I was always falling in and out of love.
+2. I was engaged when I was 16 to the first guy I ever dated, but my father told him I was too young.
+R= 990 P= 0.04%
+
+
+					====*995*====+
+1. I was overjoyed when I was offered the title role in 'Well Done Abba.'
+2. I was ready for the role even before I heard the story because you don't ask questions when it is Shyam Benegal's film.
+R= 990 P= 0.04%
+
+
+					====*996*====+
+1. And you might do a scene 10 or 12 times or more, the same little 31-second bit.
+2. And you could tell he wasn't satisfied, but he wouldn't say much.
+R= 990 P= 0.04%
+
+
+					====*997*====+
+1. I'm looking for a feel and I have to find what that feel is before I can move on from there.
+2. I'm not necessarily catching stuff in such a simple way - I don't need to.
+R= 997 P= 0.03%
+
+
+					====*998*====+
+1. It's estimated that 16 million people in the U.S. have struggled with depression - and I include myself in that statistic.
+2. It's real, and it's not shameful, and there is help available.
+R= 997 P= 0.03%
+
+
+					====*999*====+
+1. It's not the part of being a celebrity that's so attractive to me.
+2. It's being recognized for your accomplishments and what you've done... becoming closer to what you want to achieve in life.
+R= 997 P= 0.03%
+
+
+					====*1000*====+
+1. It's something that I think I'm going to have to fight against for most of my career, for people to take me seriously as an actor as opposed to a good-looking guy.
+2. It's not what I want to be known as.
+R= 997 P= 0.03%
+
+
+					====*1001*====+
+1. It's one of my favorite TV shows.
+2. It's basically self-made millionaires who have either come up with their own business or clothing... I came up with the idea of designing clothes.
+R= 997 P= 0.03%
+
+
+					====*1002*====+
+1. The farmer doesn't care for the pitchers' battle that resolves itself into a checkers game.
+2. The farmer loves the dramatic, and slugging is more dramatic than even the cleverest pitching.
+R= 997 P= 0.03%
+
+
+					====*1003*====+
+1. We will cut programs, we will try to rein in the size of the bureaucracy.
+2. We will bring federal pay scales that have become so exaggerated into line with market rates.
+R= 997 P= 0.03%
+
+
+					====*1004*====+
+1. I am never bored, never short of anything to do and I don't even ever feel lonely.
+2. I am quite gregarious and I get out and about a lot, but sometimes it is just wonderful to be on your own.
+R= 1004 P= 0.02%
+
+
+					====*1005*====+
+1. I'm on the list that I thought I'd never be on.
+2. I'm not sitting here thinking, 'God, I might get this part' or 'is it too late for me to play Hamlet?'
+R= 1004 P= 0.02%
+
+
+					====*1006*====+
+1. I ran track in high school very competitively, and then ran it D-1 at Boston University.
+2. I ran there on an athletic scholarship and chose BU because they had both a good track program and an arts program.
+R= 1004 P= 0.02%
+
+
+					====*1007*====+
+1. It was a tough year for me, '89, losing two Slam finals and losing another five finals.
+2. It wasn't until I won the Masters, or what's now called the ATP Finals, that things changed again.
+R= 1004 P= 0.02%
+
+
+					====*1008*====+
+1. I was in California the first time I heard Michael Jackson wanted to record with me.
+2. I was, like, 'Nah, no way, he's too big, it can't be true.'
+R= 1004 P= 0.02%
+
+
+					====*1009*====+
+1. I don't say that I'm going to be like every other comic that's blue, or gratuitous use of language.
+2. I do try to have my own standards: I don't do everything the audience wants, and I do try to surprise them.
+R= 1009 P= 0.01%
+
+
+					====*1010*====+
+1. I know what the important things are in life.
+2. I know that just because I pretend to be someone else for two hours on the silver screen doesn't make me a better person than the next man.
+R= 1009 P= 0.01%
+
+
+					====*1011*====+
+1. I'm not just somebody shuffling around in a monster suit.
+2. I'm a kind of puppeteer from the inside who is attempting through arm and body movements to give the creatures I play a sense of personality.
+R= 1009 P= 0.01%
+
+
+					====*1012*====+
+1. I think if you play a character that is fearless, then it's boring.
+2. I think that's what was so incredible about Harrison Ford, is that he always seemed like he was never going to survive it, he's always scared, and yet he always does survive it somehow.
+R= 1009 P= 0.01%
+
+
+					====*1013*====+
+1. I've worked behind counters serving food, and I've lived on the circus train, and I've led bicycle tours in Eastern Europe and the Balkans and Russia.
+2. I've been a key liner for a newspaper, I've done typesetting.
+R= 1009 P= 0.01%
+
+
+					====*1014*====+
+1. But I held myself together because I knew he's very much alive in his spirit, and that was just a shell.
+2. But I kissed him on his forehead, and I hugged him, and I touched him and I said, 'Michael, I'll never leave you.
+R= 1009 P= 0.01%
+
+
+					====*1015*====+
+1. It was the most pleasurable thing I've ever done, playing this character, and I just remember feeling so at home and so - I don't know, I was just happy - and it just wasn't ever work!
+2. It was like a sandbox for me, and I would crack myself up rehearsing.
+R= 1015 P= 0.01%
+
+
+					====*1016*====+
+1. I am a person who believes in asking questions, in not conforming for the sake of conforming.
+2. I am deeply dissatisfied - about so many things, about injustice, about the way the world works - and in some ways, my dissatisfaction drives my storytelling.
+R= 1016 P= 0.01%
+
+
+					====*1017*====+
+1. I hate politics and what are considered their appropriate measures.
+2. I hate notoriety, public meetings, public speeches, caucuses and everything that I know of which is apparently the necessary incident of politics - except doing public work to the best of my ability.
+R= 1016 P= 0.01%
+
+
+					====*1018*====+
+1. I was a huge theater geek growing up, and that was not the easiest thing in the world, especially growing up in Chicago, where sports are really the norm.
+2. I was always off to the theater at night, from 7 years old on.
+R= 1016 P= 0.01%
+
+
+					====*1019*====+
+1. Most Muslims do not 'choose' Islam in the way that they choose to become doctors or lawyers, nor even in the way that they choose to become fans of Coldplay or Radiohead.
+2. Most Muslims, like people of any faith, are born into their religion.
+R= 1016 P= 0.01%
+
+
+					====*1020*====+
+1. On the one hand, there is no reason that a black person needs to live a portion of his or her life being concerned about the people of color around him.
+2. On the other hand, if you don't you're crazy.
+R= 1016 P= 0.01%
+
+
+					====*1021*====+
+1. I would never have to make a book and then present it to a gallery and let them decide if my work was nice enough to show it to people.
+2. I would control it directly with the public in the streets.
+R= 1016 P= 0.01%
+
+
+					====*1022*====+
+1. We are a nation of immigrants.
+2. We are the children and grandchildren and great-grandchildren of the ones who wanted a better life, the driven ones, the ones who woke up at night hearing that voice telling them that life in that place called America could be better.
+R= 1016 P= 0.01%
+
+
+					====*1023*====+
+1. It's just this intense tickle in the back of my throat.
+2. It's like I'm on the verge the whole time I'm walking over that bridge, and I'm not going to get a release until I jump.
+R= 1023 P= 0.01%
+
+
+					====*1024*====+
+1. I was wrong, but I discovered this many years later.
+2. I was acting on the basis of this mandate given me by the most important leaders of the world: President Bush's father, prime minister of France, President Mitterand, the Chinese, everybody.
+R= 1023 P= 0.01%
+
+
+					====*1025*====+
+1. It's more than sex.
+2. It's that point two people can get to they call love, when you really touch someone for the first time, but it's gigantic, multiplied by the whole audience.
+R= 1023 P= 0.01%
+
+
+					====*1026*====+
+1. I was born and raised in North Little Rock, Arkansas.
+2. I was 15 when I got my first job serving food to the residents in a retirement home - 22 years later I would shoot my first film in one.
+R= 1026 P= 0.00%
+
+
+					====*1027*====+
+1. I have yet to meet anyone quite so stubborn as myself and animated by this overpowering passion that leaves me no time for thought or anything else.
+2. I have, in fact, no interest in life outside racing cars.
+R= 1027 P= 0.00%
+
+
+					====*1028*====+
+1. I'm real bent on dialogue.
+2. I'm just a little bit crazy and when you put that along with 20 years as a criminal lawyer, it's pretty easy to come up with some interesting plots.
+R= 1027 P= 0.00%
+
+
+					====*1029*====+
+1. I never examined what I did in any great detail because I thought it would spoil things.
+2. I never read the scripts at all carefully, and never wanted to know what was going on, because I felt that being a benevolent alien that's the way it should be.
+R= 1027 P= 0.00%
+
+
+					====*1030*====+
+1. It's easy to look at the vampires as a metaphor for any feared or misunderstood group.
+2. It's also easy to look at them as a metaphor for a shadow organization that says one thing and has a completely different agenda on their mind, and anybody who gets in their way, they just get rid of them.
+R= 1027 P= 0.00%
+
+
+					====*1031*====+
+1. I think being nice and being safe is unfair to yourself when you have big dreams as a woman.
+2. I think you have to prepare yourself that not everyone in this world has the same personality... The one thing I've chosen to be great at in my life is singing - so why not be proud that I'm great at it?
+R= 1031 P= 0.00%
+
+
+					====*1032*====+
+1. It's like fashion, like flares go out then skinny jeans come in, people want something fresh.
+2. It's the strongest ever urban scene at the moment and I hope it can progress and keep getting stronger and be the base for something larger.
+R= 1032 P= 0.00%
+
+
+					====*1033*====+
+1. We've taken on the major health problems of the poorest - tuberculosis, maternal mortality, AIDS, malaria - in four countries.
+2. We've scored some victories in the sense that we've cured or treated thousands and changed the discourse about what is possible.
+R= 1032 P= 0.00%
+
+
+					====*1034*====+
+1. I'm a clown, which could be a public health role.
+2. I'm really interested in moving our society away from a society needing Xanax and Prozac, and that is really feeling depressed, to one that is celebrating, and so I find just walking around in colorful clothes, people smile.
+R= 1034 P= 0.00%
+
+
+					====*1035*====+
+1. I think the problem is that there has been a kind of backlash against feminism.
+2. I think women just didn't really see themselves winning that fight, and I think that probably led to a lot women feeling trapped in a perpetual cycle of disappointment - trying to be feminists and failing to be.
+R= 1034 P= 0.00%
+
+
+					====*1036*====+
+1. I've been singing properly every day since I was about fifteen or sixteen, and I have never had any problems with my voice, ever.
+2. I've had a sore throat here and there, had a cold and sung through it, but that day it just went while I was onstage in Paris during a radio show.
+R= 1034 P= 0.00%
+
+
+					====*1037*====+
+1. I've always wanted to pull off 'No One is to Blame' by Howard Jones.
+2. I've done that a couple times in solo shows, but I can't figure out how to do that with a full band and make it work.
+R= 1037 P= 0.00%
+
+
+					====*1038*====+
+1. That's what I've done in my career, one that's culminated in - at least to this point - playing a part in finding the largest field in the last 40 years anywhere in the world.
+2. That's the Bakken field, which I believe will yield 24 billion barrels of oil in the decades to come, maybe more.
+R= 1038 P= 0.00%
+
+
+					====*1039*====+
+1. When I was a little kid - and even still - I loved magic tricks.
+2. When I saw how movies got made - at least had a glimpse when I went on the Universal Studios tour with my grandfather, I remember feeling like this was another means by which I could do magic.
+R= 1038 P= 0.00%
+
+
+					====*1040*====+
+1. They're hard to sit on, so it stops me from sitting too long... I also wear a pair of 3M(TM) PELTOR(TM) Optime(TM) II Ear Muffs.
+2. They're the same ones that people wear on the tarmac among the planes - noise blockers.
+R= 1040 P= 0.00%
+
+

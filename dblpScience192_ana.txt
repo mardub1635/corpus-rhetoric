@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+###################################
+#R Stands for Rank		#
+#P Stands for Probability Score	#
+##################################
+
+					====*1*====+
+1. Models.
+2. Models.
+3. Models.
+R= 1 P= 92.33%
+
+
+					====*2*====+
+1. Bring out your codes!
+2. Bring out your codes!
+R= 2 P= 89.77%
+
+
+					====*3*====+
+1. Beneath the layers in nature, resilient life.
+2. Beneath the layers in artifacts, lifeless components.
+R= 3 P= 43.82%
+
+
+					====*4*====+
+1. NET framework essentials - introducing the .
+2. NET framework.
+R= 4 P= 28.11%
+
+

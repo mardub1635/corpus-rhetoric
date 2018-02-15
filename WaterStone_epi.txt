@@ -1,0 +1,274 @@
+<?xml version="1.0"?>
+
+###################################
+#R Stands for Rank		#
+#P Stands for Probability Score	#
+##################################
+
+					====*1*====+
+1. Bingo!
+2. Bingo!
+3. Bingo!
+R= 1 P= 99.98%
+
+
+					====*2*====+
+1. Bingo!
+2. Bingo!
+3. Bingo!
+R= 1 P= 99.98%
+
+
+					====*3*====+
+1. Dib!
+2. Dib!
+3. Dib!
+R= 1 P= 99.98%
+
+
+					====*4*====+
+1. Dive!
+2. Dive!
+3. Dive!
+R= 1 P= 99.98%
+
+
+					====*5*====+
+1. Go!
+2. Go!
+3. Go!
+R= 1 P= 99.98%
+
+
+					====*6*====+
+1. Mad!
+2. Mad!
+3. Mad!
+R= 1 P= 99.98%
+
+
+					====*7*====+
+1. Meta!
+2. Meta!
+3. Meta!
+R= 1 P= 99.98%
+
+
+					====*8*====+
+1. Torah!
+2. Torah!
+3. Torah!
+R= 1 P= 99.98%
+
+
+					====*9*====+
+1. Stop It!
+2. Stop It!
+3. Stop It!
+R= 9 P= 99.97%
+
+
+					====*10*====+
+1. Author!
+2. Author!
+R= 10 P= 99.94%
+
+
+					====*11*====+
+1. Bizarre!
+2. Bizarre!
+R= 10 P= 99.94%
+
+
+					====*12*====+
+1. Bootneck!
+2. Bootneck!
+R= 10 P= 99.94%
+
+
+					====*13*====+
+1. Encore!
+2. Encore!
+R= 10 P= 99.94%
+
+
+					====*14*====+
+1. Extra!
+2. Extra!
+R= 10 P= 99.94%
+
+
+					====*15*====+
+1. Factieux !
+2. Factieux !
+R= 10 P= 99.94%
+
+
+					====*16*====+
+1. Faster!
+2. Faster!
+R= 10 P= 99.94%
+
+
+					====*17*====+
+1. Father!
+2. Father!
+R= 10 P= 99.94%
+
+
+					====*18*====+
+1. Feu !
+2. Feu !
+R= 10 P= 99.94%
+
+
+					====*19*====+
+1. Fire!
+2. Fire!
+R= 10 P= 99.94%
+
+
+					====*20*====+
+1. Guards!
+2. Guards!
+R= 10 P= 99.94%
+
+
+					====*21*====+
+1. Hockey!
+2. Hockey!
+R= 10 P= 99.94%
+
+
+					====*22*====+
+1. Land!
+2. Land!
+R= 10 P= 99.94%
+
+
+					====*23*====+
+1. Liar!
+2. Liar!
+R= 10 P= 99.94%
+
+
+					====*24*====+
+1. Mandoa!
+2. Mandoa!
+R= 10 P= 99.94%
+
+
+					====*25*====+
+1. Misayre!
+2. Misayre!
+R= 10 P= 99.94%
+
+
+					====*26*====+
+1. Pourquoi ?
+2. Pourquoi ?
+R= 10 P= 99.94%
+
+
+					====*27*====+
+1. Surprise!
+2. Surprise!
+R= 10 P= 99.94%
+
+
+					====*28*====+
+1. Vertel!
+2. Vertel!
+R= 10 P= 99.94%
+
+
+					====*29*====+
+1. Zombies?!
+2. Zombies!!
+R= 10 P= 99.94%
+
+
+					====*30*====+
+1. Captain Noon!
+2. Captain Noon!
+R= 30 P= 99.93%
+
+
+					====*31*====+
+1. Junge Pferde!
+2. Junge Pferde!
+R= 30 P= 99.93%
+
+
+					====*32*====+
+1. Hess?
+2. Which Hess?
+R= 32 P= 99.43%
+
+
+					====*33*====+
+1. Oh, Money!
+2. Money!
+R= 33 P= 99.29%
+
+
+					====*34*====+
+1. Oh, Money!
+2. Money!
+R= 33 P= 99.29%
+
+
+					====*35*====+
+1. Pregnant with a Royal Baby!
+2. : Pregnant with a Royal Baby!
+R= 35 P= 99.06%
+
+
+					====*36*====+
+1. Mein Weg!
+2. Dein Weg?
+R= 36 P= 98.92%
+
+
+					====*37*====+
+1. Grosser Kleiner Mann?
+2. - Kleiner Grosser Mann!
+R= 37 P= 98.64%
+
+
+					====*38*====+
+1. Vol.
+2. V. Vol.
+R= 38 P= 92.63%
+
+
+					====*39*====+
+1. Die Deutschen Stucke.
+2. Die Lateinischen Stucke.
+R= 39 P= 90.87%
+
+
+					====*40*====+
+1. He Typed.
+2. She Typed.
+R= 40 P= 86.94%
+
+
+					====*41*====+
+1. by the Author of Anne Dysart, Arthur, Andc.
+2. Andc.
+R= 41 P= 72.45%
+
+
+					====*42*====+
+1. The Works of Douglas Jerrold.
+2. with an Introductory Memoir by His Son, W. B. Jerrold.
+R= 42 P= 13.53%
+
+
+					====*43*====+
+1. Papers, Letters and Journals of William Pearson.
+2. Edited [With a Memoir] by His Widow [Ann Pearson.
+R= 43 P= 5.37%
+
+

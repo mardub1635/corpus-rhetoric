@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+
+###################################
+#R Stands for Rank		#
+#P Stands for Probability Score	#
+##################################
+
+					====*1*====+
+1. Bring out your codes!
+2. Bring out your codes!
+R= 1 P= 99.91%
+
+
+					====*2*====+
+1. Models.
+2. Models.
+3. Models.
+R= 2 P= 99.66%
+
+
+					====*3*====+
+1. ECNU at SemEval 2016 Task 6: Relevant or Not?
+2. Supportive or Not?
+R= 3 P= 97.43%
+
+
+					====*4*====+
+1. Simple heuristic or knowledge-based inference?
+2. Model comparison of binary choice inference.
+R= 4 P= 55.12%
+
+
+					====*5*====+
+1. A table!
+2. : improving temporal navigation in soccer ranking tables.
+R= 5 P= 47.64%
+
+
+					====*6*====+
+1. How old is the Web?
+2. Characterizing the age and the currency of the European scientific Web.
+R= 6 P= 42.29%
+
+
+					====*7*====+
+1. Should I open this email?
+2. : inbox-level cues, curiosity and attention to email.
+R= 7 P= 32.14%
+
+
+					====*8*====+
+1. Information science abstracts: Tracking the literature of information science.
+2. Part 2: A new taxonomy for information science.
+R= 8 P= 30.33%
+
+
+					====*9*====+
+1. Is correspondence reflected in the author position?
+2. A bibliometric study of the relation between corresponding author and byline position.
+R= 9 P= 29.69%
+
+
+					====*10*====+
+1. 2nd International Pet Show: 18-20 June 1981, West Centre Hotel, London, UK.
+2. Organized by Commodore Business Machines, Slough, UK.
+R= 10 P= 22.42%
+
+
+					====*11*====+
+1. Corrigenda to "Permutation polynomials over finite fields from a powerful lemma" [Finite Fields Appl.
+2. 17(2011) 560-574], "Further results on permutation polynomials over finite fields" [Finite Fields Appl.
+R= 11 P= 11.87%
+
+
+					====*12*====+
+1. Overloaded and Biased?
+2. Using Augmented Cognition to Understand the Interaction Between Information Overload and Cognitive Biases.
+R= 12 P= 11.66%
+
+
+					====*13*====+
+1. Learning How to Conjugate the Romanian Verb.
+2. Rules for Regular and Partially Irregular Verbs.
+R= 13 P= 5.23%
+
+
+					====*14*====+
+1. A New Approach to Multiple Fault Diagnosis: A Combination of Diagnostic Matrices, Graphs, Algebraic and Rule-Based Models.
+2. The Case of Two-Layer Models.
+R= 14 P= 3.83%
+
+

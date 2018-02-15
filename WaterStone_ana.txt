@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+
+###################################
+#R Stands for Rank		#
+#P Stands for Probability Score	#
+##################################
+
+					====*1*====+
+1. Bingo!
+2. Bingo!
+3. Bingo!
+R= 1 P= 98.55%
+
+
+					====*2*====+
+1. Bingo!
+2. Bingo!
+3. Bingo!
+R= 1 P= 98.55%
+
+
+					====*3*====+
+1. Dib!
+2. Dib!
+3. Dib!
+R= 1 P= 98.55%
+
+
+					====*4*====+
+1. Dive!
+2. Dive!
+3. Dive!
+R= 1 P= 98.55%
+
+
+					====*5*====+
+1. Go!
+2. Go!
+3. Go!
+R= 1 P= 98.55%
+
+
+					====*6*====+
+1. Mad!
+2. Mad!
+3. Mad!
+R= 1 P= 98.55%
+
+
+					====*7*====+
+1. Meta!
+2. Meta!
+3. Meta!
+R= 1 P= 98.55%
+
+
+					====*8*====+
+1. Stop It!
+2. Stop It!
+3. Stop It!
+R= 1 P= 98.55%
+
+
+					====*9*====+
+1. Torah!
+2. Torah!
+3. Torah!
+R= 1 P= 98.55%
+
+
+					====*10*====+
+1. Author!
+2. Author!
+R= 10 P= 89.77%
+
+
+					====*11*====+
+1. Bizarre!
+2. Bizarre!
+R= 10 P= 89.77%
+
+
+					====*12*====+
+1. Bootneck!
+2. Bootneck!
+R= 10 P= 89.77%
+
+
+					====*13*====+
+1. Captain Noon!
+2. Captain Noon!
+R= 10 P= 89.77%
+
+
+					====*14*====+
+1. Encore!
+2. Encore!
+R= 10 P= 89.77%
+
+
+					====*15*====+
+1. Extra!
+2. Extra!
+R= 10 P= 89.77%
+
+
+					====*16*====+
+1. Factieux !
+2. Factieux !
+R= 10 P= 89.77%
+
+
+					====*17*====+
+1. Faster!
+2. Faster!
+R= 10 P= 89.77%
+
+
+					====*18*====+
+1. Father!
+2. Father!
+R= 10 P= 89.77%
+
+
+					====*19*====+
+1. Feu !
+2. Feu !
+R= 10 P= 89.77%
+
+
+					====*20*====+
+1. Fire!
+2. Fire!
+R= 10 P= 89.77%
+
+
+					====*21*====+
+1. Guards!
+2. Guards!
+R= 10 P= 89.77%
+
+
+					====*22*====+
+1. Hockey!
+2. Hockey!
+R= 10 P= 89.77%
+
+
+					====*23*====+
+1. Junge Pferde!
+2. Junge Pferde!
+R= 10 P= 89.77%
+
+
+					====*24*====+
+1. Land!
+2. Land!
+R= 10 P= 89.77%
+
+
+					====*25*====+
+1. Liar!
+2. Liar!
+R= 10 P= 89.77%
+
+
+					====*26*====+
+1. Mandoa!
+2. Mandoa!
+R= 10 P= 89.77%
+
+
+					====*27*====+
+1. Misayre!
+2. Misayre!
+R= 10 P= 89.77%
+
+
+					====*28*====+
+1. Pourquoi ?
+2. Pourquoi ?
+R= 10 P= 89.77%
+
+
+					====*29*====+
+1. Surprise!
+2. Surprise!
+R= 10 P= 89.77%
+
+
+					====*30*====+
+1. Vertel!
+2. Vertel!
+R= 10 P= 89.77%
+
+
+					====*31*====+
+1. My Best Friend!
+2. My Best Man!
+R= 31 P= 81.48%
+
+
+					====*32*====+
+1. Go West, Young Lady!
+2. Go West!
+R= 32 P= 75.70%
+
+
+					====*33*====+
+1. I'll Fix You!
+2. I'll Kill Me!
+R= 32 P= 75.70%
+
+
+					====*34*====+
+1. You're Married Don't ACT Single.
+2. You're Single Don't Play Married.
+R= 34 P= 28.11%
+
+
