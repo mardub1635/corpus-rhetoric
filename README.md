@@ -51,9 +51,7 @@ This is what contains the file quote_chiasmus.txt:
 4. R= 3 S= 98.00%
 
 **Reference**
-For the moment this article is not published but you can always cite my thesis:
-
-[1]Marie Dubremetz, ‘Detecting Rhetorical Figures Based on Repetition of Words: Chiasmus, Epanaphora, Epiphora’, PhD dissertation, Uppsala, 2017.
+[1] Marie Dubremetz, ‘Rhetorical Figure Detection: Chiasmus, Epanaphora, Epiphora’, Frontiers in Digital Humanities 5 (2018): 10.
 
 **Contact**
 
