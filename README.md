@@ -55,4 +55,4 @@ This is what contains the file quote_chiasmus.txt:
 
 **Contact**
 
-Marie Dubremetz. firstname.lastname@lingfil.uu.se
+Marie Dubremetz. github: mardub1635 email:marie@stp.lingfil.uu.se
