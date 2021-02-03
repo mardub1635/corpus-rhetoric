@@ -25,7 +25,7 @@ The files *_chiasmus.txt contain thechiasmis found by my machine in the corpora
 This is what contains the file quote_chiasmus.txt:
 			====*1*====+
 					  
-1. >righteous >sinner
+1. \>righteous >sinner
 2. righteous who think they are sinners and the sinners who think they are righteous
 3. There are only two kinds of men: the {righteous} who think they are {sinners} and the {sinners} who think they are {righteous}.
 4. R= 1 S= 99.77%
@@ -35,7 +35,7 @@ This is what contains the file quote_chiasmus.txt:
 			
 					====*2*====+
 					  
-1. >success >happiness
+1. \>success >happiness
 2. Success is not the key to happiness . Happiness is the key to success
 3. {Success} is not the key to {happiness}. {Happiness} is the key to {success}.
 4. R= 2 S= 98.32%
@@ -45,7 +45,7 @@ This is what contains the file quote_chiasmus.txt:
 			
 					====*3*====+
 					  
-1. >advertising >public
+1. \>advertising >public
 2. advertising had a little more respect for the public , the public would have a lot more respect for advertising
 3. If {advertising} had a little more respect for the {public}, the {public} would have a lot more respect for {advertising}.
 4. R= 3 S= 98.00%
